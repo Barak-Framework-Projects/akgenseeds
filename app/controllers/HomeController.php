@@ -4,7 +4,7 @@ class HomeController extends ApplicationController {
 
   // protected $after_actions = [["notice_mailer"]];
 
-  protected $helpers = ["Page", "Bootstrap"];
+  protected $helpers = ["Page", "Bootstrap", "Text"];
 
   public function index() { }
 

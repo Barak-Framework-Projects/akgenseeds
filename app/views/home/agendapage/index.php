@@ -61,7 +61,7 @@ $agenda_image_first = $agendaimages[0];
 		<h3>
 			<a href="/home/agendas/show/<?= $agenda->id; ?>"><?= $agenda->subject; ?></a>
 		</h3>
-		<p><?= substr(h($agenda->content), 0, 550) . "..."; ?></p>
+		<p><?= substr(TextHelper::html_escape($agenda->content), 0, 550) . "..."; ?></p>
 	</div>
 
 </div>
