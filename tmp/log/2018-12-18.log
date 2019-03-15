@@ -1,0 +1,14 @@
+2018-12-18 14:15:14 → debug : Undefined variable: locale
+ in <b>C:\Inetpub\vhosts\akgenseeds.com\httpdocs\app\views\home\_home_navbar.php</b> at line <b>2</b>
+
+2018-12-18 16:26:33 → debug : syntax error, unexpected end of file in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\app\views\home\_home_navbar.php at line 122
+2018-12-18 17:05:27 → debug : Undefined variable: name
+ in <b>C:\Inetpub\vhosts\akgenseeds.com\httpdocs\app\views\home\_home_navbar.php</b> at line <b>86</b>
+
+2018-12-18 17:05:58 → debug : Undefined variable: name
+ in <b>C:\Inetpub\vhosts\akgenseeds.com\httpdocs\app\views\home\_home_navbar.php</b> at line <b>86</b>
+
+2018-12-18 17:07:50 → debug : | producttype | tablosunda böyle bir anahtar mevcut değil →  in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\lib\ApplicationModel.php at line 463
+2018-12-18 17:08:41 → debug : | producttype | tablosunda böyle bir anahtar mevcut değil →  in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\lib\ApplicationModel.php at line 463
+2018-12-18 17:09:52 → debug : | producttype | tablosunda böyle bir anahtar mevcut değil →  in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\lib\ApplicationModel.php at line 463
+2018-12-18 17:10:26 → debug : | producttype | tablosunda böyle bir anahtar mevcut değil →  in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\lib\ApplicationModel.php at line 463

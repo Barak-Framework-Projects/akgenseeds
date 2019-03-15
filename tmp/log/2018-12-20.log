@@ -1,0 +1,4 @@
+2018-12-20 02:48:53 → debug : Uzay çağında bizim henüz desteklemediğimiz bir method → HEAD in C:\Inetpub\vhosts\akgenseeds.com\httpdocs\lib\ApplicationRoutes.php at line 94
+2018-12-20 14:43:58 → debug : Trying to get property 'value' of non-object
+ in <b>C:\Inetpub\vhosts\akgenseeds.com\httpdocs\app\views\home\about_us.php</b> at line <b>19</b>
+

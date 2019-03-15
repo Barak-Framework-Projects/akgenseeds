@@ -1,0 +1,1050 @@
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 00:02:53
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (8.62 ms)
+  Rendered public/404.html (1.03 ms)
+Started GET '/home/producttypes/show/42' for 66.249.69.70 at 2019-03-12 00:10:47
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.42 ms)
+  Rendered app/views/home/productpage/_table.php (332.87 ms)
+  Rendered app/views/home/producttypepage/show.php (366.88 ms)
+  Rendered app/views//home/_home_topbar.php (16.49 ms)
+  Rendered app/views//home/_home_header.php (16.68 ms)
+  Rendered app/views//home/_home_navbar.php (61.77 ms)
+  Rendered app/views/home/_home_footer.php (64.19 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (564.39 ms)
+Completed 200 OK in (587.07 ms)
+Started GET '/robots.txt' for 46.229.168.130 at 2019-03-12 00:25:28
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.30 ms)
+  Rendered public/404.html (1.07 ms)
+Started GET '/home/products/show/318' for 46.229.168.140 at 2019-03-12 00:25:29
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1475.32 ms)
+  Rendered app/views/home/productpage/show.php (1585.55 ms)
+  Rendered app/views//home/_home_topbar.php (16.84 ms)
+  Rendered app/views//home/_home_header.php (16.65 ms)
+  Rendered app/views//home/_home_navbar.php (61.90 ms)
+  Rendered app/views/home/_home_footer.php (64.59 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.32 ms)
+  Rendered app/views/layouts/home.php (1784.25 ms)
+Completed 200 OK in (1799.61 ms)
+Started GET '/robots.txt' for 66.249.69.68 at 2019-03-12 00:49:49
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.13 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/home/producttypes/show/44' for 66.249.69.65 at 2019-03-12 00:49:49
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.61 ms)
+  Rendered app/views/home/productpage/_table.php (507.22 ms)
+  Rendered app/views/home/producttypepage/show.php (542.17 ms)
+  Rendered app/views//home/_home_topbar.php (16.93 ms)
+  Rendered app/views//home/_home_header.php (16.30 ms)
+  Rendered app/views//home/_home_navbar.php (62.70 ms)
+  Rendered app/views/home/_home_footer.php (67.67 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (744.79 ms)
+Completed 200 OK in (767.64 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 00:54:03
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (4.83 ms)
+  Rendered public/404.html (1.56 ms)
+Started GET '/home/products/show/241' for 46.229.168.150 at 2019-03-12 01:16:39
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (219.74 ms)
+  Rendered app/views/home/productpage/show.php (329.73 ms)
+  Rendered app/views//home/_home_topbar.php (15.92 ms)
+  Rendered app/views//home/_home_header.php (16.42 ms)
+  Rendered app/views//home/_home_navbar.php (60.01 ms)
+  Rendered app/views/home/_home_footer.php (63.58 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (523.32 ms)
+Completed 200 OK in (539.54 ms)
+Started GET '/' for 66.249.69.70 at 2019-03-12 01:17:21
+Processing by home#index
+  Rendered app/views/home/index.php (28.41 ms)
+  Rendered app/views//home/_home_topbar.php (16.20 ms)
+  Rendered app/views//home/_home_header.php (16.41 ms)
+  Rendered app/views//home/_home_navbar.php (60.32 ms)
+  Rendered app/views/home/_home_footer.php (62.63 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+  Rendered app/views/layouts/home.php (221.42 ms)
+Completed 200 OK in (228.18 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 01:44:48
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.57 ms)
+  Rendered public/404.html (1.22 ms)
+Started GET '/home/about_us' for 66.249.69.68 at 2019-03-12 01:45:57
+Processing by home#about_us
+  Rendered app/views/home/about_us.php (17.62 ms)
+  Rendered app/views//home/_home_topbar.php (15.91 ms)
+  Rendered app/views//home/_home_header.php (16.09 ms)
+  Rendered app/views//home/_home_navbar.php (60.23 ms)
+  Rendered app/views/home/_home_footer.php (63.66 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (211.37 ms)
+Completed 200 OK in (219.48 ms)
+Started GET '/wp-includse.php?script=1' for 193.106.30.98 at 2019-03-12 01:59:20
+No route matches [GET] /wp-includse.php?script=1
+Completed 404 Not Found in (3.20 ms)
+  Rendered public/404.html (1.03 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 02:35:19
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.27 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/ajax/producttype' for 66.249.69.65 at 2019-03-12 02:39:19
+No route matches [GET] /ajax/producttype
+Completed 404 Not Found in (3.00 ms)
+  Rendered public/404.html (0.95 ms)
+Started GET '/robots.txt' for 178.154.200.47 at 2019-03-12 02:40:41
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.04 ms)
+  Rendered public/404.html (0.96 ms)
+Started GET '/home/products' for 178.154.171.25 at 2019-03-12 02:40:45
+Processing by productpage#index
+  Rendered app/views/home/productpage/_table.php (7380.83 ms)
+  Rendered app/views/home/productpage/index.php (7384.63 ms)
+  Rendered app/views//home/_home_topbar.php (21.60 ms)
+  Rendered app/views//home/_home_header.php (29.67 ms)
+  Rendered app/views//home/_home_navbar.php (150.15 ms)
+  Rendered app/views/home/_home_footer.php (100.84 ms)
+  Rendered app/views/layouts/_back_to_top.php (19.89 ms)
+  Rendered app/views/layouts/home.php (7806.50 ms)
+Completed 200 OK in (7904.51 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 03:24:12
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.23 ms)
+  Rendered public/404.html (1.07 ms)
+Started GET '/wp-login.php' for 82.199.141.4 at 2019-03-12 03:29:42
+No route matches [GET] /wp-login.php
+Completed 404 Not Found in (3.40 ms)
+  Rendered public/404.html (1.09 ms)
+Started GET '/robots.txt' for 46.229.168.137 at 2019-03-12 04:04:55
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.07 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/home/products/show/311' for 46.229.168.132 at 2019-03-12 04:04:55
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1413.43 ms)
+  Rendered app/views/home/productpage/show.php (1535.38 ms)
+  Rendered app/views//home/_home_topbar.php (16.11 ms)
+  Rendered app/views//home/_home_header.php (16.01 ms)
+  Rendered app/views//home/_home_navbar.php (60.66 ms)
+  Rendered app/views/home/_home_footer.php (66.27 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (1732.63 ms)
+Completed 200 OK in (1747.80 ms)
+Started GET '/home/products/show/305' for 46.229.168.143 at 2019-03-12 04:05:40
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1434.54 ms)
+  Rendered app/views/home/productpage/show.php (1541.99 ms)
+  Rendered app/views//home/_home_topbar.php (15.93 ms)
+  Rendered app/views//home/_home_header.php (16.01 ms)
+  Rendered app/views//home/_home_navbar.php (59.82 ms)
+  Rendered app/views/home/_home_footer.php (63.29 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (1734.73 ms)
+Completed 200 OK in (1747.60 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 04:13:15
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.15 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/home/producttypes/show/40' for 66.249.69.65 at 2019-03-12 04:52:50
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (13.11 ms)
+  Rendered app/views/home/productpage/_table.php (831.75 ms)
+  Rendered app/views/home/producttypepage/show.php (873.11 ms)
+  Rendered app/views//home/_home_topbar.php (18.20 ms)
+  Rendered app/views//home/_home_header.php (19.14 ms)
+  Rendered app/views//home/_home_navbar.php (70.15 ms)
+  Rendered app/views/home/_home_footer.php (69.92 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.38 ms)
+  Rendered app/views/layouts/home.php (1090.64 ms)
+Completed 200 OK in (1120.05 ms)
+Started GET '/robots.txt' for 54.36.150.38 at 2019-03-12 05:30:39
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (34.10 ms)
+  Rendered public/404.html (7.90 ms)
+Started GET '/home/products/show/340' for 54.36.148.121 at 2019-03-12 05:30:40
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1489.54 ms)
+  Rendered app/views/home/productpage/show.php (1619.48 ms)
+  Rendered app/views//home/_home_topbar.php (23.94 ms)
+  Rendered app/views//home/_home_header.php (24.41 ms)
+  Rendered app/views//home/_home_navbar.php (74.82 ms)
+  Rendered app/views/home/_home_footer.php (75.04 ms)
+  Rendered app/views/layouts/_back_to_top.php (6.42 ms)
+  Rendered app/views/layouts/home.php (1863.85 ms)
+Completed 200 OK in (1935.34 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 05:51:13
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.09 ms)
+  Rendered public/404.html (0.99 ms)
+Started GET '/home/products' for 66.249.69.70 at 2019-03-12 05:57:07
+Processing by productpage#index
+  Rendered app/views/home/productpage/_table.php (7538.28 ms)
+  Rendered app/views/home/productpage/index.php (7546.45 ms)
+  Rendered app/views//home/_home_topbar.php (17.61 ms)
+  Rendered app/views//home/_home_header.php (17.71 ms)
+  Rendered app/views//home/_home_navbar.php (66.50 ms)
+  Rendered app/views/home/_home_footer.php (67.39 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.38 ms)
+  Rendered app/views/layouts/home.php (7758.23 ms)
+Completed 200 OK in (7774.60 ms)
+Started GET '/' for 66.249.69.65 at 2019-03-12 06:36:00
+Processing by home#index
+  Rendered app/views/home/index.php (67.88 ms)
+  Rendered app/views//home/_home_topbar.php (16.87 ms)
+  Rendered app/views//home/_home_header.php (16.67 ms)
+  Rendered app/views//home/_home_navbar.php (60.77 ms)
+  Rendered app/views/home/_home_footer.php (65.97 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (267.08 ms)
+Completed 200 OK in (275.29 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 06:40:53
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (21.74 ms)
+  Rendered public/404.html (20.64 ms)
+Started GET '/home' for 66.249.69.65 at 2019-03-12 06:56:14
+Processing by home#index
+  Rendered app/views/home/index.php (30.26 ms)
+  Rendered app/views//home/_home_topbar.php (19.79 ms)
+  Rendered app/views//home/_home_header.php (19.78 ms)
+  Rendered app/views//home/_home_navbar.php (62.91 ms)
+  Rendered app/views/home/_home_footer.php (68.10 ms)
+  Rendered app/views/layouts/_back_to_top.php (2.39 ms)
+  Rendered app/views/layouts/home.php (241.85 ms)
+Completed 200 OK in (250.47 ms)
+Started GET '/home/agendas/show/14' for 54.36.149.6 at 2019-03-12 06:56:16
+Processing by agendapage#show
+  Rendered app/views/home/agendapage/show.php (82.64 ms)
+  Rendered app/views//home/_home_topbar.php (17.51 ms)
+  Rendered app/views//home/_home_header.php (17.94 ms)
+  Rendered app/views//home/_home_navbar.php (74.93 ms)
+  Rendered app/views/home/_home_footer.php (76.17 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.35 ms)
+  Rendered app/views/layouts/home.php (312.26 ms)
+Completed 200 OK in (349.86 ms)
+Started GET '/home/products/show/235' for 66.249.69.65 at 2019-03-12 06:59:00
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (235.80 ms)
+  Rendered app/views/home/productpage/show.php (356.39 ms)
+  Rendered app/views//home/_home_topbar.php (19.44 ms)
+  Rendered app/views//home/_home_header.php (20.02 ms)
+  Rendered app/views//home/_home_navbar.php (59.75 ms)
+  Rendered app/views/home/_home_footer.php (64.04 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.21 ms)
+  Rendered app/views/layouts/home.php (557.76 ms)
+Completed 200 OK in (571.40 ms)
+Started GET '/home/products/show/311' for 66.249.75.94 at 2019-03-12 07:12:47
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1451.47 ms)
+  Rendered app/views/home/productpage/show.php (1571.36 ms)
+  Rendered app/views//home/_home_topbar.php (16.41 ms)
+  Rendered app/views//home/_home_header.php (16.42 ms)
+  Rendered app/views//home/_home_navbar.php (61.17 ms)
+  Rendered app/views/home/_home_footer.php (64.52 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (1768.16 ms)
+Completed 200 OK in (1783.65 ms)
+Started GET '/home/products/show/269' for 66.249.75.93 at 2019-03-12 07:41:53
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (362.22 ms)
+  Rendered app/views/home/productpage/show.php (476.91 ms)
+  Rendered app/views//home/_home_topbar.php (17.74 ms)
+  Rendered app/views//home/_home_header.php (16.70 ms)
+  Rendered app/views//home/_home_navbar.php (64.16 ms)
+  Rendered app/views/home/_home_footer.php (66.90 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (684.41 ms)
+Completed 200 OK in (699.61 ms)
+Started GET '/home/producttypes/show/42' for 40.77.167.129 at 2019-03-12 07:56:24
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (24.29 ms)
+  Rendered app/views/home/productpage/_table.php (338.50 ms)
+  Rendered app/views/home/producttypepage/show.php (433.92 ms)
+  Rendered app/views//home/_home_topbar.php (16.65 ms)
+  Rendered app/views//home/_home_header.php (16.52 ms)
+  Rendered app/views//home/_home_navbar.php (63.19 ms)
+  Rendered app/views/home/_home_footer.php (67.11 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.39 ms)
+  Rendered app/views/layouts/home.php (636.87 ms)
+Completed 200 OK in (665.82 ms)
+Started GET '/robots.txt' for 157.55.39.223 at 2019-03-12 07:56:43
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.85 ms)
+  Rendered public/404.html (1.27 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 08:22:24
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.06 ms)
+  Rendered public/404.html (1.05 ms)
+Started GET '/home/products/show/311' for 66.249.75.93 at 2019-03-12 08:43:26
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1444.64 ms)
+  Rendered app/views/home/productpage/show.php (1554.25 ms)
+  Rendered app/views//home/_home_topbar.php (16.68 ms)
+  Rendered app/views//home/_home_header.php (16.44 ms)
+  Rendered app/views//home/_home_navbar.php (60.69 ms)
+  Rendered app/views/home/_home_footer.php (64.90 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (1751.63 ms)
+Completed 200 OK in (1766.77 ms)
+Started GET '/home/products/show/228' for 66.249.75.92 at 2019-03-12 08:47:05
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (338.35 ms)
+  Rendered app/views/home/productpage/show.php (447.61 ms)
+  Rendered app/views//home/_home_topbar.php (16.64 ms)
+  Rendered app/views//home/_home_header.php (16.67 ms)
+  Rendered app/views//home/_home_navbar.php (61.80 ms)
+  Rendered app/views/home/_home_footer.php (65.32 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.22 ms)
+  Rendered app/views/layouts/home.php (647.93 ms)
+Completed 200 OK in (661.68 ms)
+Started GET '/home/agendas/show/15' for 66.249.75.94 at 2019-03-12 09:12:33
+Processing by agendapage#show
+  Rendered app/views/home/agendapage/show.php (10.22 ms)
+  Rendered app/views//home/_home_topbar.php (16.45 ms)
+  Rendered app/views//home/_home_header.php (16.38 ms)
+  Rendered app/views//home/_home_navbar.php (60.68 ms)
+  Rendered app/views/home/_home_footer.php (68.53 ms)
+  Rendered app/views/layouts/_back_to_top.php (2.26 ms)
+  Rendered app/views/layouts/home.php (215.14 ms)
+Completed 200 OK in (230.58 ms)
+Started GET '/home/products/show/229' for 66.249.75.93 at 2019-03-12 09:20:27
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (329.75 ms)
+  Rendered app/views/home/productpage/show.php (439.29 ms)
+  Rendered app/views//home/_home_topbar.php (16.09 ms)
+  Rendered app/views//home/_home_header.php (16.52 ms)
+  Rendered app/views//home/_home_navbar.php (59.76 ms)
+  Rendered app/views/home/_home_footer.php (64.72 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (634.53 ms)
+Completed 200 OK in (650.50 ms)
+Started GET '/home/products/show/370' for 66.249.75.92 at 2019-03-12 09:42:35
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (841.23 ms)
+  Rendered app/views/home/productpage/show.php (953.90 ms)
+  Rendered app/views//home/_home_topbar.php (16.82 ms)
+  Rendered app/views//home/_home_header.php (16.89 ms)
+  Rendered app/views//home/_home_navbar.php (62.21 ms)
+  Rendered app/views/home/_home_footer.php (65.75 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (1155.15 ms)
+Completed 200 OK in (1170.22 ms)
+Started GET '/home/producttypes/show/42' for 66.249.75.93 at 2019-03-12 09:59:06
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.92 ms)
+  Rendered app/views/home/productpage/_table.php (338.02 ms)
+  Rendered app/views/home/producttypepage/show.php (373.26 ms)
+  Rendered app/views//home/_home_topbar.php (16.56 ms)
+  Rendered app/views//home/_home_header.php (16.50 ms)
+  Rendered app/views//home/_home_navbar.php (60.64 ms)
+  Rendered app/views/home/_home_footer.php (65.07 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.30 ms)
+  Rendered app/views/layouts/home.php (571.11 ms)
+Completed 200 OK in (594.85 ms)
+Started GET '/robots.txt' for 46.229.168.147 at 2019-03-12 10:38:06
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.14 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/home/products/show/344' for 46.229.168.145 at 2019-03-12 10:38:07
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1451.51 ms)
+  Rendered app/views/home/productpage/show.php (1560.39 ms)
+  Rendered app/views//home/_home_topbar.php (16.96 ms)
+  Rendered app/views//home/_home_header.php (17.60 ms)
+  Rendered app/views//home/_home_navbar.php (63.99 ms)
+  Rendered app/views/home/_home_footer.php (68.06 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.35 ms)
+  Rendered app/views/layouts/home.php (1767.42 ms)
+Completed 200 OK in (1782.82 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 11:40:15
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.21 ms)
+  Rendered public/404.html (1.10 ms)
+Started GET '/' for 66.249.75.92 at 2019-03-12 11:48:24
+Processing by home#index
+  Rendered app/views/home/index.php (44.80 ms)
+  Rendered app/views//home/_home_topbar.php (18.23 ms)
+  Rendered app/views//home/_home_header.php (30.31 ms)
+  Rendered app/views//home/_home_navbar.php (75.14 ms)
+  Rendered app/views/home/_home_footer.php (69.33 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.40 ms)
+  Rendered app/views/layouts/home.php (278.76 ms)
+Completed 200 OK in (287.06 ms)
+Started GET '/robots.txt' for 66.249.75.92 at 2019-03-12 12:12:39
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.69 ms)
+  Rendered public/404.html (1.09 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 12:29:20
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.05 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/home/products' for 66.249.75.92 at 2019-03-12 12:55:00
+Processing by productpage#index
+Started GET '/robots.txt' for 66.249.75.93 at 2019-03-12 12:55:00
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.43 ms)
+  Rendered public/404.html (1.19 ms)
+  Rendered app/views/home/productpage/_table.php (7107.55 ms)
+  Rendered app/views/home/productpage/index.php (7111.42 ms)
+  Rendered app/views//home/_home_topbar.php (17.02 ms)
+  Rendered app/views//home/_home_header.php (16.97 ms)
+  Rendered app/views//home/_home_navbar.php (63.31 ms)
+  Rendered app/views/home/_home_footer.php (66.50 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (7314.83 ms)
+Completed 200 OK in (7332.07 ms)
+Started GET '/wp-login.php' for 1.53.252.161 at 2019-03-12 13:03:27
+No route matches [GET] /wp-login.php
+Completed 404 Not Found in (3.29 ms)
+  Rendered public/404.html (1.03 ms)
+Started GET '/robots.txt' for 178.154.200.34 at 2019-03-12 13:05:23
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.29 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 13:19:13
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.18 ms)
+  Rendered public/404.html (0.97 ms)
+Started GET '/home/producttypes/show/44' for 66.249.75.92 at 2019-03-12 13:28:39
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (13.19 ms)
+  Rendered app/views/home/productpage/_table.php (595.23 ms)
+  Rendered app/views/home/producttypepage/show.php (635.87 ms)
+  Rendered app/views//home/_home_topbar.php (18.16 ms)
+  Rendered app/views//home/_home_header.php (20.73 ms)
+  Rendered app/views//home/_home_navbar.php (64.79 ms)
+  Rendered app/views/home/_home_footer.php (68.62 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (850.93 ms)
+Completed 200 OK in (876.36 ms)
+Started GET '/home/products/show/305' for 5.45.207.76 at 2019-03-12 13:29:19
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1565.80 ms)
+  Rendered app/views/home/productpage/show.php (1679.27 ms)
+  Rendered app/views//home/_home_topbar.php (16.81 ms)
+  Rendered app/views//home/_home_header.php (17.05 ms)
+  Rendered app/views//home/_home_navbar.php (62.66 ms)
+  Rendered app/views/home/_home_footer.php (70.03 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (1886.84 ms)
+Completed 200 OK in (1900.85 ms)
+Started GET '/home/producttypes/show/42' for 66.249.75.93 at 2019-03-12 13:31:47
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.68 ms)
+  Rendered app/views/home/productpage/_table.php (334.92 ms)
+  Rendered app/views/home/producttypepage/show.php (372.51 ms)
+  Rendered app/views//home/_home_topbar.php (16.74 ms)
+  Rendered app/views//home/_home_header.php (16.45 ms)
+  Rendered app/views//home/_home_navbar.php (60.54 ms)
+  Rendered app/views/home/_home_footer.php (65.07 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+  Rendered app/views/layouts/home.php (570.22 ms)
+Completed 200 OK in (592.11 ms)
+Started GET '/home/products/show/269' for 37.9.113.146 at 2019-03-12 13:33:58
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (342.37 ms)
+  Rendered app/views/home/productpage/show.php (477.38 ms)
+  Rendered app/views//home/_home_topbar.php (16.77 ms)
+  Rendered app/views//home/_home_header.php (16.66 ms)
+  Rendered app/views//home/_home_navbar.php (60.48 ms)
+  Rendered app/views/home/_home_footer.php (63.37 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.22 ms)
+  Rendered app/views/layouts/home.php (673.63 ms)
+Completed 200 OK in (692.77 ms)
+Started GET '/' for 85.106.101.208 at 2019-03-12 13:34:59
+Processing by home#index
+  Rendered app/views/home/index.php (29.24 ms)
+  Rendered app/views//home/_home_topbar.php (16.99 ms)
+  Rendered app/views//home/_home_header.php (16.90 ms)
+  Rendered app/views//home/_home_navbar.php (60.42 ms)
+  Rendered app/views/home/_home_footer.php (65.39 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (227.98 ms)
+Completed 200 OK in (234.58 ms)
+Started GET '/home/products/show/325' for 178.154.200.17 at 2019-03-12 13:37:23
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1479.54 ms)
+  Rendered app/views/home/productpage/show.php (1589.27 ms)
+  Rendered app/views//home/_home_topbar.php (16.66 ms)
+  Rendered app/views//home/_home_header.php (19.31 ms)
+  Rendered app/views//home/_home_navbar.php (65.41 ms)
+  Rendered app/views/home/_home_footer.php (74.21 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.33 ms)
+  Rendered app/views/layouts/home.php (1805.23 ms)
+Completed 200 OK in (1818.42 ms)
+Started GET '/home/akgenseeds.com' for 66.249.75.94 at 2019-03-12 13:49:39
+No route matches [GET] /home/akgenseeds.com
+Completed 404 Not Found in (3.08 ms)
+  Rendered public/404.html (1.05 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 14:10:38
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.25 ms)
+  Rendered public/404.html (0.97 ms)
+Started GET '/home/products/show/230' for 66.249.75.92 at 2019-03-12 14:12:55
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (427.34 ms)
+  Rendered app/views/home/productpage/show.php (569.37 ms)
+  Rendered app/views//home/_home_topbar.php (16.97 ms)
+  Rendered app/views//home/_home_header.php (17.43 ms)
+  Rendered app/views//home/_home_navbar.php (61.25 ms)
+  Rendered app/views/home/_home_footer.php (66.50 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.35 ms)
+  Rendered app/views/layouts/home.php (771.98 ms)
+Completed 200 OK in (790.26 ms)
+Started GET '/home/products/show/372' for 157.55.39.227 at 2019-03-12 14:16:26
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (896.36 ms)
+  Rendered app/views/home/productpage/show.php (1019.64 ms)
+  Rendered app/views//home/_home_topbar.php (21.64 ms)
+  Rendered app/views//home/_home_header.php (19.51 ms)
+  Rendered app/views//home/_home_navbar.php (72.17 ms)
+  Rendered app/views/home/_home_footer.php (68.68 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.50 ms)
+  Rendered app/views/layouts/home.php (1248.65 ms)
+Completed 200 OK in (1263.69 ms)
+Started GET '/robots.txt' for 37.9.113.123 at 2019-03-12 14:36:28
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.18 ms)
+  Rendered public/404.html (1.03 ms)
+Started GET '/home/index' for 37.9.113.123 at 2019-03-12 14:36:32
+Processing by home#index
+  Rendered app/views/home/index.php (30.61 ms)
+  Rendered app/views//home/_home_topbar.php (19.72 ms)
+  Rendered app/views//home/_home_header.php (26.93 ms)
+  Rendered app/views//home/_home_navbar.php (69.96 ms)
+  Rendered app/views/home/_home_footer.php (70.53 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (257.62 ms)
+Completed 200 OK in (266.04 ms)
+Started GET '/home/producttypes/show/35' for 141.8.142.162 at 2019-03-12 14:40:27
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (13.23 ms)
+  Rendered app/views/home/productpage/_table.php (391.84 ms)
+  Rendered app/views/home/producttypepage/show.php (431.93 ms)
+  Rendered app/views//home/_home_topbar.php (22.98 ms)
+  Rendered app/views//home/_home_header.php (25.62 ms)
+  Rendered app/views//home/_home_navbar.php (76.16 ms)
+  Rendered app/views/home/_home_footer.php (79.36 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (683.68 ms)
+Completed 200 OK in (707.92 ms)
+Started GET '/home/producttypes/show/35' for 66.249.69.68 at 2019-03-12 14:49:22
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.61 ms)
+  Rendered app/views/home/productpage/_table.php (344.85 ms)
+  Rendered app/views/home/producttypepage/show.php (380.21 ms)
+  Rendered app/views//home/_home_topbar.php (16.72 ms)
+  Rendered app/views//home/_home_header.php (17.39 ms)
+  Rendered app/views//home/_home_navbar.php (62.92 ms)
+  Rendered app/views/home/_home_footer.php (65.05 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.30 ms)
+  Rendered app/views/layouts/home.php (583.58 ms)
+Completed 200 OK in (607.32 ms)
+Started GET '/home/products/show/345' for 141.8.142.162 at 2019-03-12 14:51:46
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1469.84 ms)
+  Rendered app/views/home/productpage/show.php (1606.22 ms)
+  Rendered app/views//home/_home_topbar.php (18.08 ms)
+  Rendered app/views//home/_home_header.php (16.83 ms)
+  Rendered app/views//home/_home_navbar.php (64.64 ms)
+  Rendered app/views/home/_home_footer.php (69.74 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.31 ms)
+  Rendered app/views/layouts/home.php (1819.02 ms)
+Completed 200 OK in (1834.63 ms)
+Started GET '/home/products/show/373' for 37.9.113.123 at 2019-03-12 15:04:37
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (387.12 ms)
+  Rendered app/views/home/productpage/show.php (503.58 ms)
+  Rendered app/views//home/_home_topbar.php (18.75 ms)
+  Rendered app/views//home/_home_header.php (19.73 ms)
+  Rendered app/views//home/_home_navbar.php (66.37 ms)
+  Rendered app/views/home/_home_footer.php (67.86 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.31 ms)
+  Rendered app/views/layouts/home.php (717.66 ms)
+Completed 200 OK in (734.26 ms)
+Started GET '/home/pages/33' for 66.249.69.70 at 2019-03-12 15:07:19
+Processing by page#show
+  Rendered app/views/home/page/show.php (86.27 ms)
+  Rendered app/views//home/_home_topbar.php (17.33 ms)
+  Rendered app/views//home/_home_header.php (24.56 ms)
+  Rendered app/views//home/_home_navbar.php (70.10 ms)
+  Rendered app/views/home/_home_footer.php (76.25 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (315.37 ms)
+Completed 200 OK in (339.80 ms)
+Started GET '/home/products/show/230' for 66.249.69.70 at 2019-03-12 15:34:20
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (437.28 ms)
+  Rendered app/views/home/productpage/show.php (559.32 ms)
+  Rendered app/views//home/_home_topbar.php (21.38 ms)
+  Rendered app/views//home/_home_header.php (17.34 ms)
+  Rendered app/views//home/_home_navbar.php (67.44 ms)
+  Rendered app/views/home/_home_footer.php (69.61 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.37 ms)
+  Rendered app/views/layouts/home.php (781.93 ms)
+Completed 200 OK in (799.06 ms)
+Started GET '/robots.txt' for 46.229.168.141 at 2019-03-12 15:37:54
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.12 ms)
+  Rendered public/404.html (1.11 ms)
+Started GET '/home/products/show/361' for 46.229.168.146 at 2019-03-12 15:37:57
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (982.13 ms)
+  Rendered app/views/home/productpage/show.php (1095.28 ms)
+  Rendered app/views//home/_home_topbar.php (17.07 ms)
+  Rendered app/views//home/_home_header.php (16.85 ms)
+  Rendered app/views//home/_home_navbar.php (62.64 ms)
+  Rendered app/views/home/_home_footer.php (70.74 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.22 ms)
+  Rendered app/views/layouts/home.php (1303.06 ms)
+Completed 200 OK in (1317.61 ms)
+Started GET '/robots.txt' for 37.9.113.123 at 2019-03-12 15:55:06
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.10 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/home/agendas' for 37.9.113.123 at 2019-03-12 15:55:10
+Processing by agendapage#index
+Started GET '/wp-login.php' for 54.37.7.37 at 2019-03-12 16:20:12
+No route matches [GET] /wp-login.php
+Completed 404 Not Found in (3.07 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/' for 88.241.37.200 at 2019-03-12 16:26:45
+Processing by home#index
+  Rendered app/views/home/index.php (29.57 ms)
+  Rendered app/views//home/_home_topbar.php (16.66 ms)
+  Rendered app/views//home/_home_header.php (17.30 ms)
+  Rendered app/views//home/_home_navbar.php (62.04 ms)
+  Rendered app/views/home/_home_footer.php (67.21 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (231.69 ms)
+Completed 200 OK in (240.02 ms)
+Started GET '/' for 88.241.37.200 at 2019-03-12 16:26:50
+Processing by home#index
+  Rendered app/views/home/index.php (28.59 ms)
+  Rendered app/views//home/_home_topbar.php (17.80 ms)
+  Rendered app/views//home/_home_header.php (16.88 ms)
+  Rendered app/views//home/_home_navbar.php (62.24 ms)
+  Rendered app/views/home/_home_footer.php (66.93 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (231.74 ms)
+Completed 200 OK in (238.79 ms)
+Started GET '/home/producttypes/show/35' for 88.241.37.200 at 2019-03-12 16:27:18
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.41 ms)
+  Rendered app/views/home/productpage/_table.php (335.29 ms)
+  Rendered app/views/home/producttypepage/show.php (369.71 ms)
+  Rendered app/views//home/_home_topbar.php (17.25 ms)
+  Rendered app/views//home/_home_header.php (16.83 ms)
+  Rendered app/views//home/_home_navbar.php (61.63 ms)
+  Rendered app/views/home/_home_footer.php (65.72 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (571.00 ms)
+Completed 200 OK in (592.19 ms)
+Started GET '/home/categories/show/10' for 88.241.37.200 at 2019-03-12 16:27:55
+Processing by categorypage#show
+  Rendered app/views/home/_menu_product.php (12.07 ms)
+  Rendered app/views/home/categorypage/show.php (126.70 ms)
+  Rendered app/views//home/_home_topbar.php (16.49 ms)
+  Rendered app/views//home/_home_header.php (17.35 ms)
+  Rendered app/views//home/_home_navbar.php (62.22 ms)
+  Rendered app/views/home/_home_footer.php (67.05 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.22 ms)
+  Rendered app/views/layouts/home.php (328.99 ms)
+Completed 200 OK in (351.04 ms)
+Started GET '/home/producttypes/show/35' for 88.241.37.200 at 2019-03-12 16:28:16
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.39 ms)
+  Rendered app/views/home/productpage/_table.php (329.54 ms)
+  Rendered app/views/home/producttypepage/show.php (364.92 ms)
+  Rendered app/views//home/_home_topbar.php (16.50 ms)
+  Rendered app/views//home/_home_header.php (16.44 ms)
+  Rendered app/views//home/_home_navbar.php (61.10 ms)
+  Rendered app/views/home/_home_footer.php (67.91 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (568.03 ms)
+Completed 200 OK in (588.62 ms)
+Started GET '/home/products/show/379' for 88.241.37.200 at 2019-03-12 16:28:27
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (333.70 ms)
+  Rendered app/views/home/productpage/show.php (441.46 ms)
+  Rendered app/views//home/_home_topbar.php (16.66 ms)
+  Rendered app/views//home/_home_header.php (16.61 ms)
+  Rendered app/views//home/_home_navbar.php (61.45 ms)
+  Rendered app/views/home/_home_footer.php (64.82 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (639.89 ms)
+Completed 200 OK in (653.21 ms)
+Started GET '/home/distributors' for 88.241.37.200 at 2019-03-12 16:28:52
+Processing by distributorpage#index
+  Rendered app/views/home/distributorpage/index.php (69.21 ms)
+  Rendered app/views//home/_home_topbar.php (17.00 ms)
+  Rendered app/views//home/_home_header.php (17.06 ms)
+  Rendered app/views//home/_home_navbar.php (61.09 ms)
+  Rendered app/views/home/_home_footer.php (66.05 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+  Rendered app/views/layouts/home.php (270.42 ms)
+Completed 200 OK in (320.82 ms)
+Started GET '/home/producttypes/show/36' for 88.241.37.200 at 2019-03-12 16:29:36
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (12.40 ms)
+  Rendered app/views/home/productpage/_table.php (436.50 ms)
+  Rendered app/views/home/producttypepage/show.php (474.35 ms)
+  Rendered app/views//home/_home_topbar.php (18.35 ms)
+  Rendered app/views//home/_home_header.php (17.92 ms)
+  Rendered app/views//home/_home_navbar.php (73.75 ms)
+  Rendered app/views/home/_home_footer.php (76.99 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (704.63 ms)
+Completed 200 OK in (726.26 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 16:44:21
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.04 ms)
+  Rendered public/404.html (0.96 ms)
+Started GET '/' for 178.245.197.111 at 2019-03-12 17:13:44
+Processing by home#index
+  Rendered app/views/home/index.php (29.35 ms)
+  Rendered app/views//home/_home_topbar.php (16.85 ms)
+  Rendered app/views//home/_home_header.php (17.35 ms)
+  Rendered app/views//home/_home_navbar.php (63.43 ms)
+  Rendered app/views/home/_home_footer.php (67.67 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.38 ms)
+  Rendered app/views/layouts/home.php (234.31 ms)
+Completed 200 OK in (242.71 ms)
+Started GET '/browserconfig.xml' for 178.245.197.111 at 2019-03-12 17:13:47
+No route matches [GET] /browserconfig.xml
+Completed 404 Not Found in (3.03 ms)
+  Rendered public/404.html (0.99 ms)
+Started GET '/lang/tr' for 178.245.197.111 at 2019-03-12 17:14:09
+Processing by lang#tr
+Completed 302 Found in (17.73 ms)
+Started GET '/home/index' for 178.245.197.111 at 2019-03-12 17:14:09
+Processing by home#index
+  Rendered app/views/home/index.php (27.88 ms)
+  Rendered app/views//home/_home_topbar.php (16.23 ms)
+  Rendered app/views//home/_home_header.php (16.20 ms)
+  Rendered app/views//home/_home_navbar.php (61.05 ms)
+  Rendered app/views/home/_home_footer.php (67.30 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.22 ms)
+  Rendered app/views/layouts/home.php (227.03 ms)
+Completed 200 OK in (233.80 ms)
+Started GET '/home/products/search' for 178.245.197.111 at 2019-03-12 17:14:15
+Processing by productpage#search
+  Rendered app/views/home/productpage/search.php (8.67 ms)
+  Rendered app/views//home/_home_topbar.php (16.31 ms)
+  Rendered app/views//home/_home_header.php (16.26 ms)
+  Rendered app/views//home/_home_navbar.php (59.94 ms)
+  Rendered app/views/home/_home_footer.php (65.31 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.21 ms)
+  Rendered app/views/layouts/home.php (204.77 ms)
+Completed 200 OK in (218.25 ms)
+Started GET '/home/products' for 178.245.197.111 at 2019-03-12 17:14:19
+Processing by productpage#index
+  Rendered app/views/home/productpage/_table.php (7150.12 ms)
+  Rendered app/views/home/productpage/index.php (7153.69 ms)
+  Rendered app/views//home/_home_topbar.php (17.27 ms)
+  Rendered app/views//home/_home_header.php (16.48 ms)
+  Rendered app/views//home/_home_navbar.php (59.61 ms)
+  Rendered app/views/home/_home_footer.php (69.88 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.38 ms)
+  Rendered app/views/layouts/home.php (7357.15 ms)
+Completed 200 OK in (7371.35 ms)
+Started GET '/home/products/show/225' for 66.249.69.88 at 2019-03-12 17:14:45
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (326.22 ms)
+  Rendered app/views/home/productpage/show.php (435.54 ms)
+  Rendered app/views//home/_home_topbar.php (16.43 ms)
+  Rendered app/views//home/_home_header.php (16.83 ms)
+  Rendered app/views//home/_home_navbar.php (61.53 ms)
+  Rendered app/views/home/_home_footer.php (65.85 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.33 ms)
+  Rendered app/views/layouts/home.php (634.95 ms)
+Completed 200 OK in (647.96 ms)
+Started GET '/home/distributors' for 178.245.197.111 at 2019-03-12 17:15:14
+Processing by distributorpage#index
+  Rendered app/views/home/distributorpage/index.php (33.91 ms)
+  Rendered app/views//home/_home_topbar.php (16.54 ms)
+  Rendered app/views//home/_home_header.php (16.54 ms)
+  Rendered app/views//home/_home_navbar.php (60.10 ms)
+  Rendered app/views/home/_home_footer.php (66.63 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (233.11 ms)
+Completed 200 OK in (243.45 ms)
+Started GET '/home/products/show/310' for 66.249.69.70 at 2019-03-12 17:19:59
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1522.87 ms)
+  Rendered app/views/home/productpage/show.php (1629.64 ms)
+  Rendered app/views//home/_home_topbar.php (16.02 ms)
+  Rendered app/views//home/_home_header.php (16.60 ms)
+  Rendered app/views//home/_home_navbar.php (64.56 ms)
+  Rendered app/views/home/_home_footer.php (63.89 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (1829.06 ms)
+Completed 200 OK in (1841.41 ms)
+Started GET '/home/producttypes/show/40' for 66.249.69.65 at 2019-03-12 17:27:19
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.74 ms)
+  Rendered app/views/home/productpage/_table.php (860.66 ms)
+  Rendered app/views/home/producttypepage/show.php (895.94 ms)
+  Rendered app/views//home/_home_topbar.php (16.63 ms)
+  Rendered app/views//home/_home_header.php (16.31 ms)
+  Rendered app/views//home/_home_navbar.php (60.07 ms)
+  Rendered app/views/home/_home_footer.php (63.91 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (1091.76 ms)
+Completed 200 OK in (1114.74 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 17:35:50
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.26 ms)
+  Rendered public/404.html (1.04 ms)
+Started GET '/home/products/show/228' for 66.249.69.65 at 2019-03-12 17:55:17
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (340.11 ms)
+  Rendered app/views/home/productpage/show.php (451.50 ms)
+  Rendered app/views//home/_home_topbar.php (20.27 ms)
+  Rendered app/views//home/_home_header.php (19.89 ms)
+  Rendered app/views//home/_home_navbar.php (67.82 ms)
+  Rendered app/views/home/_home_footer.php (65.44 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+  Rendered app/views/layouts/home.php (666.20 ms)
+Completed 200 OK in (681.49 ms)
+Started GET '/wp-content/plugins/way2register.php' for 193.106.30.98 at 2019-03-12 18:13:44
+No route matches [GET] /wp-content/plugins/way2register.php
+Completed 404 Not Found in (3.41 ms)
+  Rendered public/404.html (1.15 ms)
+Started GET '/robots.txt' for 46.229.168.137 at 2019-03-12 18:14:12
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.09 ms)
+  Rendered public/404.html (1.06 ms)
+Started GET '/home/products/show/308' for 46.229.168.129 at 2019-03-12 18:14:15
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1644.01 ms)
+  Rendered app/views/home/productpage/show.php (1768.38 ms)
+  Rendered app/views//home/_home_topbar.php (18.49 ms)
+  Rendered app/views//home/_home_header.php (17.83 ms)
+  Rendered app/views//home/_home_navbar.php (66.86 ms)
+  Rendered app/views/home/_home_footer.php (71.55 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.40 ms)
+  Rendered app/views/layouts/home.php (1985.39 ms)
+Completed 200 OK in (2002.39 ms)
+Started GET '/home/products/show/340' for 46.229.168.146 at 2019-03-12 18:17:08
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1626.55 ms)
+  Rendered app/views/home/productpage/show.php (1759.25 ms)
+  Rendered app/views//home/_home_topbar.php (17.57 ms)
+  Rendered app/views//home/_home_header.php (16.33 ms)
+  Rendered app/views//home/_home_navbar.php (60.67 ms)
+  Rendered app/views/home/_home_footer.php (69.01 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.62 ms)
+  Rendered app/views/layouts/home.php (1964.02 ms)
+Completed 200 OK in (1978.42 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 18:26:41
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.19 ms)
+  Rendered public/404.html (0.99 ms)
+Started GET '/home/products/show/284' for 40.77.167.134 at 2019-03-12 18:30:13
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (327.01 ms)
+  Rendered app/views/home/productpage/show.php (438.34 ms)
+  Rendered app/views//home/_home_topbar.php (16.18 ms)
+  Rendered app/views//home/_home_header.php (16.48 ms)
+  Rendered app/views//home/_home_navbar.php (60.09 ms)
+  Rendered app/views/home/_home_footer.php (64.11 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.35 ms)
+  Rendered app/views/layouts/home.php (633.77 ms)
+Completed 200 OK in (649.58 ms)
+Started GET '/' for 66.249.69.68 at 2019-03-12 18:59:22
+Processing by home#index
+  Rendered app/views/home/index.php (30.71 ms)
+  Rendered app/views//home/_home_topbar.php (17.34 ms)
+  Rendered app/views//home/_home_header.php (17.10 ms)
+  Rendered app/views//home/_home_navbar.php (60.43 ms)
+  Rendered app/views/home/_home_footer.php (64.28 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+  Rendered app/views/layouts/home.php (229.62 ms)
+Completed 200 OK in (237.78 ms)
+Started GET '/ajax/producttype' for 66.249.69.65 at 2019-03-12 19:16:26
+No route matches [GET] /ajax/producttype
+Completed 404 Not Found in (3.04 ms)
+  Rendered public/404.html (0.97 ms)
+Started GET '/' for 34.220.48.182 at 2019-03-12 19:25:05
+Processing by home#index
+  Rendered app/views/home/index.php (28.19 ms)
+  Rendered app/views//home/_home_topbar.php (16.07 ms)
+  Rendered app/views//home/_home_header.php (16.41 ms)
+  Rendered app/views//home/_home_navbar.php (60.41 ms)
+  Rendered app/views/home/_home_footer.php (63.76 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+  Rendered app/views/layouts/home.php (222.80 ms)
+Completed 200 OK in (231.00 ms)
+Started GET '/home/pages/33' for 40.77.167.134 at 2019-03-12 19:57:09
+Processing by page#show
+  Rendered app/views/home/page/show.php (76.87 ms)
+  Rendered app/views//home/_home_topbar.php (17.15 ms)
+  Rendered app/views//home/_home_header.php (21.37 ms)
+  Rendered app/views//home/_home_navbar.php (65.65 ms)
+  Rendered app/views/home/_home_footer.php (76.96 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (297.38 ms)
+Completed 200 OK in (312.02 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 20:05:41
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.19 ms)
+  Rendered public/404.html (1.01 ms)
+Started GET '/robots.txt' for 46.229.168.148 at 2019-03-12 20:31:30
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.26 ms)
+  Rendered public/404.html (1.01 ms)
+Started GET '/home/products/show/343' for 46.229.168.132 at 2019-03-12 20:31:32
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1434.28 ms)
+  Rendered app/views/home/productpage/show.php (1553.94 ms)
+  Rendered app/views//home/_home_topbar.php (16.40 ms)
+  Rendered app/views//home/_home_header.php (17.13 ms)
+  Rendered app/views//home/_home_navbar.php (65.09 ms)
+  Rendered app/views/home/_home_footer.php (67.42 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (1760.53 ms)
+Completed 200 OK in (1775.61 ms)
+Started GET '/robots.txt' for 141.8.183.215 at 2019-03-12 20:41:05
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.09 ms)
+  Rendered public/404.html (0.97 ms)
+Started GET '/' for 66.249.69.70 at 2019-03-12 21:25:33
+Processing by home#index
+  Rendered app/views/home/index.php (28.88 ms)
+  Rendered app/views//home/_home_topbar.php (16.34 ms)
+  Rendered app/views//home/_home_header.php (16.92 ms)
+  Rendered app/views//home/_home_navbar.php (67.11 ms)
+  Rendered app/views/home/_home_footer.php (75.59 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.36 ms)
+  Rendered app/views/layouts/home.php (245.55 ms)
+Completed 200 OK in (253.76 ms)
+Started GET '/home/products/show/300' for 66.249.69.70 at 2019-03-12 21:29:45
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (609.57 ms)
+  Rendered app/views/home/productpage/show.php (737.32 ms)
+  Rendered app/views//home/_home_topbar.php (16.34 ms)
+  Rendered app/views//home/_home_header.php (16.86 ms)
+  Rendered app/views//home/_home_navbar.php (61.98 ms)
+  Rendered app/views/home/_home_footer.php (65.22 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.38 ms)
+  Rendered app/views/layouts/home.php (937.35 ms)
+Completed 200 OK in (953.34 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 21:47:31
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.19 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/home/producttypes/show/44' for 66.249.69.70 at 2019-03-12 21:48:23
+Processing by producttypepage#show
+  Rendered app/views/home/_menu_product.php (11.93 ms)
+  Rendered app/views/home/productpage/_table.php (518.84 ms)
+  Rendered app/views/home/producttypepage/show.php (554.43 ms)
+  Rendered app/views//home/_home_topbar.php (16.91 ms)
+  Rendered app/views//home/_home_header.php (16.43 ms)
+  Rendered app/views//home/_home_navbar.php (59.76 ms)
+  Rendered app/views/home/_home_footer.php (65.86 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+  Rendered app/views/layouts/home.php (752.18 ms)
+Completed 200 OK in (776.35 ms)
+Started GET '/home/products/show/235' for 66.249.75.93 at 2019-03-12 21:59:12
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (229.57 ms)
+  Rendered app/views/home/productpage/show.php (344.63 ms)
+  Rendered app/views//home/_home_topbar.php (15.98 ms)
+  Rendered app/views//home/_home_header.php (16.62 ms)
+  Rendered app/views//home/_home_navbar.php (60.44 ms)
+  Rendered app/views/home/_home_footer.php (62.87 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+  Rendered app/views/layouts/home.php (539.64 ms)
+Completed 200 OK in (555.67 ms)
+Started GET '/home/products/show/354' for 157.55.39.78 at 2019-03-12 22:11:36
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (1751.21 ms)
+  Rendered app/views/home/productpage/show.php (1871.99 ms)
+  Rendered app/views//home/_home_topbar.php (18.72 ms)
+  Rendered app/views//home/_home_header.php (17.30 ms)
+  Rendered app/views//home/_home_navbar.php (67.32 ms)
+  Rendered app/views/home/_home_footer.php (71.01 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.39 ms)
+  Rendered app/views/layouts/home.php (2091.25 ms)
+Completed 200 OK in (2108.12 ms)
+Started GET '/home/products' for 66.249.75.92 at 2019-03-12 22:22:02
+Processing by productpage#index
+  Rendered app/views/home/productpage/_table.php (7205.33 ms)
+  Rendered app/views/home/productpage/index.php (7210.49 ms)
+  Rendered app/views//home/_home_topbar.php (17.70 ms)
+  Rendered app/views//home/_home_header.php (18.33 ms)
+  Rendered app/views//home/_home_navbar.php (67.00 ms)
+  Rendered app/views/home/_home_footer.php (71.81 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.42 ms)
+  Rendered app/views/layouts/home.php (7427.50 ms)
+Completed 200 OK in (7450.75 ms)
+Started GET '/home/products' for 66.249.69.68 at 2019-03-12 22:34:14
+Processing by productpage#index
+  Rendered app/views/home/productpage/_table.php (6954.14 ms)
+  Rendered app/views/home/productpage/index.php (6957.74 ms)
+  Rendered app/views//home/_home_topbar.php (16.63 ms)
+  Rendered app/views//home/_home_header.php (16.45 ms)
+  Rendered app/views//home/_home_navbar.php (61.05 ms)
+  Rendered app/views/home/_home_footer.php (65.29 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+  Rendered app/views/layouts/home.php (7156.47 ms)
+Completed 200 OK in (7172.64 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 22:38:19
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.21 ms)
+  Rendered public/404.html (1.05 ms)
+Started GET '/robots.txt' for 141.8.132.16 at 2019-03-12 22:46:11
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.26 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/home/products/show/267' for 66.249.69.70 at 2019-03-12 22:51:09
+Processing by productpage#show
+  Rendered app/views/home/productpage/_table.php (530.99 ms)
+  Rendered app/views/home/productpage/show.php (649.87 ms)
+  Rendered app/views//home/_home_topbar.php (17.59 ms)
+  Rendered app/views//home/_home_header.php (16.62 ms)
+  Rendered app/views//home/_home_navbar.php (61.83 ms)
+  Rendered app/views/home/_home_footer.php (64.36 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+  Rendered app/views/layouts/home.php (848.94 ms)
+Completed 200 OK in (866.14 ms)
+Started POST '/wordpress/wp-content/themes/AdvanceImage5/functions.php' for 39.98.71.133 at 2019-03-12 23:17:22
+No route matches [POST] /wordpress/wp-content/themes/AdvanceImage5/functions.php
+Completed 404 Not Found in (3.04 ms)
+  Rendered public/404.html (0.98 ms)
+Started GET '/robots.txt' for 216.244.66.250 at 2019-03-12 23:29:20
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.71 ms)
+  Rendered public/404.html (1.00 ms)
+Started GET '/robots.txt' for 141.8.142.162 at 2019-03-12 23:34:17
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.03 ms)
+  Rendered public/404.html (0.95 ms)
+Started GET '/robots.txt' for 46.229.168.147 at 2019-03-12 23:43:53
+No route matches [GET] /robots.txt
+Completed 404 Not Found in (3.34 ms)
+  Rendered public/404.html (1.07 ms)
+Started GET '/home/index' for 46.229.168.146 at 2019-03-12 23:43:55
+Processing by home#index
+  Rendered app/views/home/index.php (30.94 ms)
+  Rendered app/views//home/_home_topbar.php (16.50 ms)
+  Rendered app/views//home/_home_header.php (16.22 ms)
+  Rendered app/views//home/_home_navbar.php (61.46 ms)
+  Rendered app/views/home/_home_footer.php (65.44 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.32 ms)
+  Rendered app/views/layouts/home.php (229.28 ms)
+Completed 200 OK in (237.45 ms)
+Started GET '/' for 207.46.13.30 at 2019-03-12 23:55:52
+Processing by home#index
+  Rendered app/views/home/index.php (35.46 ms)
+  Rendered app/views//home/_home_topbar.php (18.05 ms)
+  Rendered app/views//home/_home_header.php (17.99 ms)
+  Rendered app/views//home/_home_navbar.php (67.01 ms)
+  Rendered app/views/home/_home_footer.php (65.93 ms)
+  Rendered app/views/layouts/_back_to_top.php (1.40 ms)
+  Rendered app/views/layouts/home.php (248.35 ms)
+Completed 200 OK in (258.93 ms)

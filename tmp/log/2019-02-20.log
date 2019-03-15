@@ -1,0 +1,643 @@
+[2019-02-20 00:14:13] error : No route matches [GET] /robots.txt
+[2019-02-20 00:14:13] info : 	Rendered public/404.html (1.03 ms)
+[2019-02-20 00:19:18] error : No route matches [GET] /robots.txt
+[2019-02-20 00:19:18] info : 	Rendered public/404.html (0.97 ms)
+[2019-02-20 00:37:13] info : Started GET /home/producttypes/show/_dynamical_segment_ for 157.55.39.240
+[2019-02-20 00:37:13] info : Processing by ProducttypepageController#show
+[2019-02-20 00:37:13] info : 	Rendered app/views/home/_menu_product.php (12.35 ms)
+[2019-02-20 00:37:13] info : 	Rendered app/views/home/productpage/_table.php (111.42 ms)
+[2019-02-20 00:37:13] info : 	Rendered app/views/home/producttypepage/show.php (147.88 ms)
+[2019-02-20 00:37:13] info : 	Rendered app/views//home/_home_topbar.php (17.84 ms)
+[2019-02-20 00:37:13] info : 	Rendered app/views//home/_home_header.php (18.37 ms)
+[2019-02-20 00:37:14] info : 	Rendered app/views//home/_home_navbar.php (64.46 ms)
+[2019-02-20 00:37:14] info : 	Rendered app/views/home/_home_footer.php (74.14 ms)
+[2019-02-20 00:37:14] info : 	Rendered app/views/layouts/_back_to_top.php (1.44 ms)
+[2019-02-20 00:37:14] info : 	Rendered app/views/layouts/home.php (364.53 ms)
+[2019-02-20 00:37:14] info : Completed OK in (387.40 ms)
+[2019-02-20 00:53:58] info : Started GET /home/producttypes/show/_dynamical_segment_ for 157.55.39.238
+[2019-02-20 00:53:58] info : Processing by ProducttypepageController#show
+[2019-02-20 00:53:58] info : 	Rendered app/views/home/_menu_product.php (11.26 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views/home/productpage/_table.php (505.46 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views/home/producttypepage/show.php (539.62 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views//home/_home_topbar.php (16.30 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views//home/_home_header.php (16.86 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views//home/_home_navbar.php (60.01 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views/home/_home_footer.php (64.46 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+[2019-02-20 00:53:59] info : 	Rendered app/views/layouts/home.php (735.97 ms)
+[2019-02-20 00:53:59] info : Completed OK in (758.10 ms)
+[2019-02-20 00:54:58] info : Started GET /home/products/show/_dynamical_segment_ for 157.55.39.237
+[2019-02-20 00:54:58] info : Processing by ProductpageController#show
+[2019-02-20 00:54:59] info : 	Rendered app/views/home/productpage/_table.php (495.37 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views/home/productpage/show.php (602.42 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views//home/_home_topbar.php (16.12 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views//home/_home_header.php (16.64 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views//home/_home_navbar.php (59.31 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views/home/_home_footer.php (63.18 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views/layouts/_back_to_top.php (1.19 ms)
+[2019-02-20 00:54:59] info : 	Rendered app/views/layouts/home.php (795.25 ms)
+[2019-02-20 00:54:59] info : Completed OK in (808.10 ms)
+[2019-02-20 01:04:08] info : Started GET / for 31.223.105.2
+[2019-02-20 01:04:08] info : Processing by HomeController#index
+[2019-02-20 01:04:08] info : 	Rendered app/views/home/index.php (27.89 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views//home/_home_topbar.php (16.59 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views//home/_home_header.php (16.29 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views//home/_home_navbar.php (60.96 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views/home/_home_footer.php (64.23 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 01:04:08] info : 	Rendered app/views/layouts/home.php (224.41 ms)
+[2019-02-20 01:04:08] info : Completed OK in (231.85 ms)
+[2019-02-20 01:30:39] error : No route matches [GET] /images/
+[2019-02-20 01:30:39] info : 	Rendered public/404.html (0.99 ms)
+[2019-02-20 02:39:23] error : No route matches [GET] /robots.txt
+[2019-02-20 02:39:23] info : 	Rendered public/404.html (27.05 ms)
+[2019-02-20 03:00:31] error : No route matches [GET] /robots.txt
+[2019-02-20 03:00:31] info : 	Rendered public/404.html (0.97 ms)
+[2019-02-20 03:00:31] info : Started GET /home/agendas/show/_dynamical_segment_ for 46.229.168.153
+[2019-02-20 03:00:31] info : Processing by AgendapageController#show
+[2019-02-20 03:00:32] info : 	Rendered app/views/home/agendapage/show.php (64.11 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views//home/_home_topbar.php (38.62 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views//home/_home_header.php (47.15 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views//home/_home_navbar.php (241.54 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views/home/_home_footer.php (98.93 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views/layouts/_back_to_top.php (14.73 ms)
+[2019-02-20 03:00:32] info : 	Rendered app/views/layouts/home.php (564.84 ms)
+[2019-02-20 03:00:32] info : Completed OK in (651.83 ms)
+[2019-02-20 03:05:38] info : Started GET / for 95.0.84.5
+[2019-02-20 03:05:38] info : Processing by HomeController#index
+[2019-02-20 03:05:38] info : 	Rendered app/views/home/index.php (174.93 ms)
+[2019-02-20 03:05:38] info : 	Rendered app/views//home/_home_topbar.php (16.24 ms)
+[2019-02-20 03:05:38] info : 	Rendered app/views//home/_home_header.php (16.27 ms)
+[2019-02-20 03:05:38] info : 	Rendered app/views//home/_home_navbar.php (61.38 ms)
+[2019-02-20 03:05:39] info : 	Rendered app/views/home/_home_footer.php (93.32 ms)
+[2019-02-20 03:05:39] info : 	Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+[2019-02-20 03:05:39] info : 	Rendered app/views/layouts/home.php (404.06 ms)
+[2019-02-20 03:05:39] info : Completed OK in (410.55 ms)
+[2019-02-20 03:05:58] info : Started GET /home/producttypes/show/_dynamical_segment_ for 95.0.84.5
+[2019-02-20 03:05:58] info : Processing by ProducttypepageController#show
+[2019-02-20 03:05:58] info : 	Rendered app/views/home/_menu_product.php (19.34 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views/home/productpage/_table.php (397.21 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views/home/producttypepage/show.php (450.15 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views//home/_home_topbar.php (16.80 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views//home/_home_header.php (16.65 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views//home/_home_navbar.php (60.75 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views/home/_home_footer.php (64.76 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views/layouts/_back_to_top.php (1.34 ms)
+[2019-02-20 03:05:58] info : 	Rendered app/views/layouts/home.php (648.70 ms)
+[2019-02-20 03:05:58] info : Completed OK in (674.63 ms)
+[2019-02-20 03:06:21] info : Started GET /home/products/show/_dynamical_segment_ for 95.0.84.5
+[2019-02-20 03:06:21] info : Processing by ProductpageController#show
+[2019-02-20 03:06:21] info : 	Rendered app/views/home/productpage/_table.php (433.90 ms)
+[2019-02-20 03:06:21] info : 	Rendered app/views/home/productpage/show.php (550.43 ms)
+[2019-02-20 03:06:21] info : 	Rendered app/views//home/_home_topbar.php (17.78 ms)
+[2019-02-20 03:06:21] info : 	Rendered app/views//home/_home_header.php (16.88 ms)
+[2019-02-20 03:06:22] info : 	Rendered app/views//home/_home_navbar.php (60.50 ms)
+[2019-02-20 03:06:22] info : 	Rendered app/views/home/_home_footer.php (64.24 ms)
+[2019-02-20 03:06:22] info : 	Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+[2019-02-20 03:06:22] info : 	Rendered app/views/layouts/home.php (748.17 ms)
+[2019-02-20 03:06:22] info : Completed OK in (839.14 ms)
+[2019-02-20 04:13:19] error : No route matches [GET] /robots.txt
+[2019-02-20 04:13:19] info : 	Rendered public/404.html (1.03 ms)
+[2019-02-20 04:13:34] info : Started GET /home/products/show/_dynamical_segment_ for 207.46.13.100
+[2019-02-20 04:13:34] info : Processing by ProductpageController#show
+[2019-02-20 04:13:36] info : 	Rendered app/views/home/productpage/_table.php (1507.48 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views/home/productpage/show.php (1618.99 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views//home/_home_topbar.php (16.68 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views//home/_home_header.php (17.96 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views//home/_home_navbar.php (62.61 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views/home/_home_footer.php (65.90 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views/layouts/_back_to_top.php (1.30 ms)
+[2019-02-20 04:13:36] info : 	Rendered app/views/layouts/home.php (1822.61 ms)
+[2019-02-20 04:13:36] info : Completed OK in (1837.32 ms)
+[2019-02-20 04:20:01] info : Started GET /home/products/show/_dynamical_segment_ for 207.46.13.100
+[2019-02-20 04:20:01] info : Processing by ProductpageController#show
+[2019-02-20 04:20:02] info : 	Rendered app/views/home/productpage/_table.php (831.74 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views/home/productpage/show.php (940.79 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views//home/_home_topbar.php (16.95 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views//home/_home_header.php (16.80 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views//home/_home_navbar.php (60.90 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views/home/_home_footer.php (64.94 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+[2019-02-20 04:20:02] info : 	Rendered app/views/layouts/home.php (1139.70 ms)
+[2019-02-20 04:20:02] info : Completed OK in (1153.97 ms)
+[2019-02-20 04:25:49] error : No route matches [GET] /robots.txt
+[2019-02-20 04:25:49] info : 	Rendered public/404.html (1.00 ms)
+[2019-02-20 04:25:50] info : Started GET / for 66.249.69.68
+[2019-02-20 04:25:50] info : Processing by HomeController#index
+[2019-02-20 04:25:50] info : 	Rendered app/views/home/index.php (29.19 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views//home/_home_topbar.php (17.42 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views//home/_home_header.php (16.73 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views//home/_home_navbar.php (61.31 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views/home/_home_footer.php (66.14 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+[2019-02-20 04:25:50] info : 	Rendered app/views/layouts/home.php (229.42 ms)
+[2019-02-20 04:25:50] info : Completed OK in (236.78 ms)
+[2019-02-20 04:30:46] error : No route matches [GET] /robots.txt
+[2019-02-20 04:30:46] info : 	Rendered public/404.html (1.02 ms)
+[2019-02-20 04:30:47] error : No route matches [GET] /robots.txt
+[2019-02-20 04:30:47] info : 	Rendered public/404.html (1.04 ms)
+[2019-02-20 05:08:20] info : Started GET /home/products/show/_dynamical_segment_ for 66.249.69.65
+[2019-02-20 05:08:20] info : Processing by ProductpageController#show
+[2019-02-20 05:08:21] info : 	Rendered app/views/home/productpage/_table.php (1416.00 ms)
+[2019-02-20 05:08:21] info : 	Rendered app/views/home/productpage/show.php (1523.28 ms)
+[2019-02-20 05:08:21] info : 	Rendered app/views//home/_home_topbar.php (16.53 ms)
+[2019-02-20 05:08:21] info : 	Rendered app/views//home/_home_header.php (16.42 ms)
+[2019-02-20 05:08:21] info : 	Rendered app/views//home/_home_navbar.php (60.72 ms)
+[2019-02-20 05:08:22] info : 	Rendered app/views/home/_home_footer.php (65.92 ms)
+[2019-02-20 05:08:22] info : 	Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+[2019-02-20 05:08:22] info : 	Rendered app/views/layouts/home.php (1722.08 ms)
+[2019-02-20 05:08:22] info : Completed OK in (1736.53 ms)
+[2019-02-20 05:09:58] error : No route matches [GET] /robots.txt
+[2019-02-20 05:09:58] info : 	Rendered public/404.html (1.00 ms)
+[2019-02-20 05:35:29] error : No route matches [GET] /robots.txt
+[2019-02-20 05:35:29] info : 	Rendered public/404.html (12.98 ms)
+[2019-02-20 06:48:25] error : No route matches [GET] /robots.txt
+[2019-02-20 06:48:25] info : 	Rendered public/404.html (1.11 ms)
+[2019-02-20 06:48:25] info : Started GET / for 66.249.69.65
+[2019-02-20 06:48:25] info : Processing by HomeController#index
+[2019-02-20 06:48:25] info : 	Rendered app/views/home/index.php (59.07 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views//home/_home_topbar.php (22.11 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views//home/_home_header.php (30.51 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views//home/_home_navbar.php (77.03 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views/home/_home_footer.php (94.19 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views/layouts/_back_to_top.php (13.42 ms)
+[2019-02-20 06:48:25] info : 	Rendered app/views/layouts/home.php (347.23 ms)
+[2019-02-20 06:48:25] info : Completed OK in (402.12 ms)
+[2019-02-20 07:49:57] error : No route matches [GET] /robots.txt
+[2019-02-20 07:49:57] info : 	Rendered public/404.html (1.07 ms)
+[2019-02-20 07:50:06] info : Started GET /home/products/show/_dynamical_segment_ for 173.212.229.76
+[2019-02-20 07:50:06] info : Processing by ProductpageController#show
+[2019-02-20 07:50:11] info : Started GET /home/products for 173.212.229.76
+[2019-02-20 07:50:11] info : Processing by ProductpageController#index
+[2019-02-20 07:50:18] info : 	Rendered app/views/home/productpage/_table.php (7051.22 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views/home/productpage/index.php (7065.85 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views//home/_home_topbar.php (16.45 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views//home/_home_header.php (16.48 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views//home/_home_navbar.php (60.35 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views/home/_home_footer.php (67.85 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+[2019-02-20 07:50:18] info : 	Rendered app/views/layouts/home.php (7266.26 ms)
+[2019-02-20 07:50:18] info : Completed OK in (7279.99 ms)
+[2019-02-20 07:50:29] info : Started GET /home/products/show/_dynamical_segment_ for 173.212.229.76
+[2019-02-20 07:50:29] info : Processing by ProductpageController#show
+[2019-02-20 07:50:35] info : Started GET /home/products for 173.212.229.76
+[2019-02-20 07:50:35] info : Processing by ProductpageController#index
+[2019-02-20 07:50:42] info : 	Rendered app/views/home/productpage/_table.php (7029.96 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views/home/productpage/index.php (7033.42 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views//home/_home_topbar.php (16.15 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views//home/_home_header.php (16.80 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views//home/_home_navbar.php (59.57 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views/home/_home_footer.php (64.16 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views/layouts/_back_to_top.php (1.34 ms)
+[2019-02-20 07:50:42] info : 	Rendered app/views/layouts/home.php (7227.63 ms)
+[2019-02-20 07:50:42] info : Completed OK in (7240.80 ms)
+[2019-02-20 07:50:56] info : Started GET /home/products/show/_dynamical_segment_ for 173.212.229.76
+[2019-02-20 07:50:56] info : Processing by ProductpageController#show
+[2019-02-20 07:51:05] info : Started GET /home/products for 173.212.229.76
+[2019-02-20 07:51:05] info : Processing by ProductpageController#index
+[2019-02-20 07:51:12] info : 	Rendered app/views/home/productpage/_table.php (7155.80 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views/home/productpage/index.php (7159.23 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views//home/_home_topbar.php (17.67 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views//home/_home_header.php (18.00 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views//home/_home_navbar.php (63.17 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views/home/_home_footer.php (70.51 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views/layouts/_back_to_top.php (1.32 ms)
+[2019-02-20 07:51:12] info : 	Rendered app/views/layouts/home.php (7369.54 ms)
+[2019-02-20 07:51:12] info : Completed OK in (7382.91 ms)
+[2019-02-20 07:51:17] info : Started GET /home/products/show/_dynamical_segment_ for 173.212.229.76
+[2019-02-20 07:51:17] info : Processing by ProductpageController#show
+[2019-02-20 07:51:22] info : Started GET /home/products for 173.212.229.76
+[2019-02-20 07:51:22] info : Processing by ProductpageController#index
+[2019-02-20 07:51:29] info : 	Rendered app/views/home/productpage/_table.php (6946.18 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views/home/productpage/index.php (6949.62 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views//home/_home_topbar.php (16.42 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views//home/_home_header.php (16.20 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views//home/_home_navbar.php (61.43 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views/home/_home_footer.php (64.10 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+[2019-02-20 07:51:29] info : 	Rendered app/views/layouts/home.php (7147.45 ms)
+[2019-02-20 07:51:29] info : Completed OK in (7167.58 ms)
+[2019-02-20 08:07:49] error : No route matches [GET] /robots.txt
+[2019-02-20 08:07:49] info : 	Rendered public/404.html (0.98 ms)
+[2019-02-20 08:37:20] error : No route matches [GET] /robots.txt
+[2019-02-20 08:37:20] info : 	Rendered public/404.html (1.20 ms)
+[2019-02-20 08:37:20] info : Started GET /home/products/show/_dynamical_segment_ for 66.249.69.70
+[2019-02-20 08:37:20] info : Processing by ProductpageController#show
+[2019-02-20 08:37:21] info : 	Rendered app/views/home/productpage/_table.php (590.79 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views/home/productpage/show.php (758.69 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views//home/_home_topbar.php (19.56 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views//home/_home_header.php (18.50 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views//home/_home_navbar.php (69.47 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views/home/_home_footer.php (74.42 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views/layouts/_back_to_top.php (1.55 ms)
+[2019-02-20 08:37:21] info : 	Rendered app/views/layouts/home.php (987.33 ms)
+[2019-02-20 08:37:21] info : Completed OK in (1002.13 ms)
+[2019-02-20 08:43:48] info : Started GET /home/producttypes/show/_dynamical_segment_ for 66.249.69.68
+[2019-02-20 08:43:48] info : Processing by ProducttypepageController#show
+[2019-02-20 08:43:48] info : 	Rendered app/views/home/_menu_product.php (24.57 ms)
+[2019-02-20 08:43:48] info : 	Rendered app/views/home/productpage/_table.php (522.46 ms)
+[2019-02-20 08:43:48] info : 	Rendered app/views/home/producttypepage/show.php (578.83 ms)
+[2019-02-20 08:43:48] info : 	Rendered app/views//home/_home_topbar.php (17.02 ms)
+[2019-02-20 08:43:49] info : 	Rendered app/views//home/_home_header.php (16.82 ms)
+[2019-02-20 08:43:49] info : 	Rendered app/views//home/_home_navbar.php (73.78 ms)
+[2019-02-20 08:43:49] info : 	Rendered app/views/home/_home_footer.php (75.52 ms)
+[2019-02-20 08:43:49] info : 	Rendered app/views/layouts/_back_to_top.php (1.37 ms)
+[2019-02-20 08:43:49] info : 	Rendered app/views/layouts/home.php (802.74 ms)
+[2019-02-20 08:43:49] info : Completed OK in (831.73 ms)
+[2019-02-20 08:55:33] error : No route matches [GET] /robots.txt
+[2019-02-20 08:55:33] info : 	Rendered public/404.html (0.99 ms)
+[2019-02-20 09:00:46] error : No route matches [GET] /robots.txt
+[2019-02-20 09:00:46] info : 	Rendered public/404.html (1.00 ms)
+[2019-02-20 09:00:49] info : Started GET /home/products/show/_dynamical_segment_ for 46.229.168.147
+[2019-02-20 09:00:49] info : Processing by ProductpageController#show
+[2019-02-20 09:00:50] info : 	Rendered app/views/home/productpage/_table.php (836.43 ms)
+[2019-02-20 09:00:50] info : 	Rendered app/views/home/productpage/show.php (954.01 ms)
+[2019-02-20 09:00:50] info : 	Rendered app/views//home/_home_topbar.php (16.27 ms)
+[2019-02-20 09:00:50] info : 	Rendered app/views//home/_home_header.php (16.47 ms)
+[2019-02-20 09:00:51] info : 	Rendered app/views//home/_home_navbar.php (60.53 ms)
+[2019-02-20 09:00:51] info : 	Rendered app/views/home/_home_footer.php (63.56 ms)
+[2019-02-20 09:00:51] info : 	Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+[2019-02-20 09:00:51] info : 	Rendered app/views/layouts/home.php (1150.28 ms)
+[2019-02-20 09:00:51] info : Completed OK in (1165.86 ms)
+[2019-02-20 09:07:52] error : No route matches [GET] /upload/products/image/280.png
+[2019-02-20 09:07:52] info : 	Rendered public/404.html (0.98 ms)
+[2019-02-20 09:15:05] info : Started GET /home/producttypes/show/_dynamical_segment_ for 66.249.69.72
+[2019-02-20 09:15:05] info : Processing by ProducttypepageController#show
+[2019-02-20 09:15:05] info : 	Rendered app/views/home/_menu_product.php (11.78 ms)
+[2019-02-20 09:15:05] info : 	Rendered app/views/home/productpage/_table.php (281.16 ms)
+[2019-02-20 09:15:05] info : 	Rendered app/views/home/producttypepage/show.php (316.51 ms)
+[2019-02-20 09:15:05] info : 	Rendered app/views//home/_home_topbar.php (17.13 ms)
+[2019-02-20 09:15:05] info : 	Rendered app/views//home/_home_header.php (17.14 ms)
+[2019-02-20 09:15:05] info : 	Rendered app/views//home/_home_navbar.php (68.13 ms)
+[2019-02-20 09:15:06] info : 	Rendered app/views/home/_home_footer.php (72.98 ms)
+[2019-02-20 09:15:06] info : 	Rendered app/views/layouts/_back_to_top.php (1.39 ms)
+[2019-02-20 09:15:06] info : 	Rendered app/views/layouts/home.php (533.00 ms)
+[2019-02-20 09:15:06] info : Completed OK in (555.90 ms)
+[2019-02-20 09:42:23] error : No route matches [GET] /robots.txt
+[2019-02-20 09:42:23] info : 	Rendered public/404.html (0.99 ms)
+[2019-02-20 10:27:29] error : No route matches [GET] /robots.txt
+[2019-02-20 10:27:29] info : 	Rendered public/404.html (1.10 ms)
+[2019-02-20 11:19:33] error : No route matches [GET] /robots.txt
+[2019-02-20 11:19:33] info : 	Rendered public/404.html (1.01 ms)
+[2019-02-20 11:33:49] error : No route matches [GET] /robots.txt
+[2019-02-20 11:33:49] info : 	Rendered public/404.html (1.10 ms)
+[2019-02-20 11:33:50] info : Started GET /home/articles for 46.229.168.148
+[2019-02-20 11:33:50] info : Processing by ArticlepageController#index
+[2019-02-20 11:33:50] info : 	Rendered app/views/home/articlepage/index.php (12.99 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views//home/_home_topbar.php (17.85 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views//home/_home_header.php (17.80 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views//home/_home_navbar.php (64.95 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views/home/_home_footer.php (76.61 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views/layouts/_back_to_top.php (1.44 ms)
+[2019-02-20 11:33:50] info : 	Rendered app/views/layouts/home.php (237.57 ms)
+[2019-02-20 11:33:50] info : Completed OK in (292.58 ms)
+[2019-02-20 12:56:58] error : No route matches [GET] /robots.txt
+[2019-02-20 12:56:58] info : 	Rendered public/404.html (1.11 ms)
+[2019-02-20 13:45:36] error : No route matches [GET] /robots.txt
+[2019-02-20 13:45:36] info : 	Rendered public/404.html (1.26 ms)
+[2019-02-20 14:33:57] error : No route matches [GET] /robots.txt
+[2019-02-20 14:33:57] info : 	Rendered public/404.html (1.10 ms)
+[2019-02-20 14:42:16] info : Started GET /home/products/show/_dynamical_segment_ for 185.93.54.51
+[2019-02-20 14:42:16] info : Processing by ProductpageController#show
+[2019-02-20 14:42:16] info : 	Rendered app/views/home/productpage/_table.php (225.28 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views/home/productpage/show.php (338.28 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views//home/_home_topbar.php (17.32 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views//home/_home_header.php (16.68 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views//home/_home_navbar.php (60.79 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views/home/_home_footer.php (65.25 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views/layouts/_back_to_top.php (1.27 ms)
+[2019-02-20 14:42:16] info : 	Rendered app/views/layouts/home.php (538.33 ms)
+[2019-02-20 14:42:16] info : Completed OK in (553.05 ms)
+[2019-02-20 14:42:28] error : No route matches [GET] /robots.txt
+[2019-02-20 14:42:28] info : 	Rendered public/404.html (1.01 ms)
+[2019-02-20 15:05:48] error : No route matches [GET] /upload/products/image/266.png
+[2019-02-20 15:05:48] info : 	Rendered public/404.html (1.09 ms)
+[2019-02-20 15:21:57] info : Started GET / for 54.185.81.180
+[2019-02-20 15:21:57] info : Processing by HomeController#index
+[2019-02-20 15:21:57] info : 	Rendered app/views/home/index.php (32.67 ms)
+[2019-02-20 15:21:57] info : 	Rendered app/views//home/_home_topbar.php (16.87 ms)
+[2019-02-20 15:21:58] info : 	Rendered app/views//home/_home_header.php (16.32 ms)
+[2019-02-20 15:21:58] info : 	Rendered app/views//home/_home_navbar.php (61.28 ms)
+[2019-02-20 15:21:58] info : 	Rendered app/views/home/_home_footer.php (65.46 ms)
+[2019-02-20 15:21:58] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 15:21:58] info : 	Rendered app/views/layouts/home.php (234.87 ms)
+[2019-02-20 15:21:58] info : Completed OK in (242.41 ms)
+[2019-02-20 16:10:03] error : No route matches [GET] /robots.txt
+[2019-02-20 16:10:03] info : 	Rendered public/404.html (0.97 ms)
+[2019-02-20 16:14:50] error : No route matches [GET] /wp-load-5b7a23c0744615b7a23c0744af.php
+[2019-02-20 16:14:50] info : 	Rendered public/404.html (0.94 ms)
+[2019-02-20 16:53:58] info : Started GET / for 195.175.110.190
+[2019-02-20 16:53:58] info : Processing by HomeController#index
+[2019-02-20 16:53:58] info : 	Rendered app/views/home/index.php (29.29 ms)
+[2019-02-20 16:53:58] info : 	Rendered app/views//home/_home_topbar.php (17.20 ms)
+[2019-02-20 16:53:58] info : 	Rendered app/views//home/_home_header.php (16.62 ms)
+[2019-02-20 16:53:59] info : 	Rendered app/views//home/_home_navbar.php (62.92 ms)
+[2019-02-20 16:53:59] info : 	Rendered app/views/home/_home_footer.php (68.18 ms)
+[2019-02-20 16:53:59] info : 	Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+[2019-02-20 16:53:59] info : 	Rendered app/views/layouts/home.php (236.14 ms)
+[2019-02-20 16:53:59] info : Completed OK in (243.69 ms)
+[2019-02-20 16:54:03] info : Started GET / for 195.175.110.190
+[2019-02-20 16:54:03] info : Processing by HomeController#index
+[2019-02-20 16:54:03] info : 	Rendered app/views/home/index.php (28.84 ms)
+[2019-02-20 16:54:03] info : 	Rendered app/views//home/_home_topbar.php (18.22 ms)
+[2019-02-20 16:54:03] info : 	Rendered app/views//home/_home_header.php (17.17 ms)
+[2019-02-20 16:54:04] info : 	Rendered app/views//home/_home_navbar.php (62.53 ms)
+[2019-02-20 16:54:04] info : 	Rendered app/views/home/_home_footer.php (67.90 ms)
+[2019-02-20 16:54:04] info : 	Rendered app/views/layouts/_back_to_top.php (1.39 ms)
+[2019-02-20 16:54:04] info : 	Rendered app/views/layouts/home.php (234.69 ms)
+[2019-02-20 16:54:04] info : Completed OK in (241.10 ms)
+[2019-02-20 16:54:11] info : Started GET /admin for 195.175.110.190
+[2019-02-20 16:54:11] info : Processing by AdminController#index
+[2019-02-20 16:54:11] info : Started GET /admin/login for 195.175.110.190
+[2019-02-20 16:54:11] info : Processing by AdminController#login
+[2019-02-20 16:54:11] info : 	Rendered app/views/admin/login.php (28.49 ms)
+[2019-02-20 16:54:11] info : 	Rendered app/views/layouts/default.php (38.40 ms)
+[2019-02-20 16:54:11] info : Completed OK in (46.12 ms)
+[2019-02-20 16:54:26] info : Started POST /admin/login for 195.175.110.190
+[2019-02-20 16:54:26] info : Processing by AdminController#login
+[2019-02-20 16:54:27] info : 	Rendered app/views/admin/login.php (7.25 ms)
+[2019-02-20 16:54:27] info : 	Rendered app/views/layouts/default.php (9.35 ms)
+[2019-02-20 16:54:27] info : Completed OK in (784.27 ms)
+[2019-02-20 16:54:40] info : Started POST /admin/login for 195.175.110.190
+[2019-02-20 16:54:40] info : Processing by AdminController#login
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_shepherd.php (7.53 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/index.php (144.50 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_admin_navbar.php (3.95 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_menu_site.php (7.41 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_menu_distributor.php (7.29 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_menu_product.php (9.71 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_menu_user.php (11.01 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/admin/_menu_system.php (3.66 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+[2019-02-20 16:54:40] info : 	Rendered app/views/layouts/admin.php (199.86 ms)
+[2019-02-20 16:54:40] info : Completed OK in (501.03 ms)
+[2019-02-20 16:54:45] info : Started GET /admin/settings/show for 195.175.110.190
+[2019-02-20 16:54:45] info : Processing by SettingsController#show
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/settings/show.php (15.67 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_admin_navbar.php (1.47 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_menu_site.php (1.28 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_menu_distributor.php (1.44 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_menu_product.php (1.85 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_menu_user.php (1.69 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/admin/_menu_system.php (1.60 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+[2019-02-20 16:54:45] info : 	Rendered app/views/layouts/admin.php (37.49 ms)
+[2019-02-20 16:54:45] info : Completed OK in (75.35 ms)
+[2019-02-20 16:54:48] info : Started GET /admin/settings/edit for 195.175.110.190
+[2019-02-20 16:54:48] info : Processing by SettingsController#edit
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/settings/edit.php (12.10 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_admin_navbar.php (1.22 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_menu_site.php (1.20 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_menu_distributor.php (1.20 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_menu_product.php (1.22 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_menu_user.php (1.52 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/admin/_menu_system.php (1.28 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/layouts/_back_to_top.php (1.19 ms)
+[2019-02-20 16:54:48] info : 	Rendered app/views/layouts/admin.php (29.28 ms)
+[2019-02-20 16:54:48] info : Completed OK in (43.80 ms)
+[2019-02-20 16:54:51] info : Started GET /admin/users/show/_dynamical_segment_ for 195.175.110.190
+[2019-02-20 16:54:51] info : Processing by UsersController#show
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/users/show.php (12.25 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_admin_navbar.php (1.26 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_menu_site.php (1.24 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_menu_distributor.php (1.21 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_menu_product.php (1.21 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_menu_user.php (1.24 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/admin/_menu_system.php (1.22 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 16:54:51] info : 	Rendered app/views/layouts/admin.php (29.76 ms)
+[2019-02-20 16:54:51] info : Completed OK in (56.86 ms)
+[2019-02-20 16:54:59] info : Started POST /admin/settings/update for 195.175.110.190
+[2019-02-20 16:54:59] info : Processing by SettingsController#update
+[2019-02-20 16:54:59] info : Started GET /admin/settings/show for 195.175.110.190
+[2019-02-20 16:54:59] info : Processing by SettingsController#show
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/settings/show.php (2.55 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_admin_navbar.php (1.32 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_menu_site.php (1.25 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_menu_distributor.php (1.19 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_menu_product.php (1.25 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_menu_user.php (1.21 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/admin/_menu_system.php (1.25 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/layouts/_back_to_top.php (1.21 ms)
+[2019-02-20 16:54:59] info : 	Rendered app/views/layouts/admin.php (19.68 ms)
+[2019-02-20 16:54:59] info : Completed OK in (33.17 ms)
+[2019-02-20 16:55:02] info : Started GET /admin/users/edit/_dynamical_segment_ for 195.175.110.190
+[2019-02-20 16:55:02] info : Processing by UsersController#edit
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/users/edit.php (13.42 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_admin_navbar.php (1.22 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_menu_site.php (1.23 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_menu_distributor.php (1.22 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_menu_product.php (1.21 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_menu_user.php (1.30 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/admin/_menu_system.php (1.20 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/layouts/_back_to_top.php (1.19 ms)
+[2019-02-20 16:55:02] info : 	Rendered app/views/layouts/admin.php (30.48 ms)
+[2019-02-20 16:55:02] info : Completed OK in (44.21 ms)
+[2019-02-20 16:55:10] info : Started POST /admin/users/update for 195.175.110.190
+[2019-02-20 16:55:10] info : Processing by UsersController#update
+[2019-02-20 16:55:10] info : Started GET /admin/users/show/_dynamical_segment_ for 195.175.110.190
+[2019-02-20 16:55:10] info : Processing by UsersController#show
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/users/show.php (2.54 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_admin_navbar.php (1.26 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_menu_site.php (1.24 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_menu_distributor.php (1.39 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_menu_product.php (1.23 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_menu_user.php (1.23 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/admin/_menu_system.php (1.22 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+[2019-02-20 16:55:10] info : 	Rendered app/views/layouts/admin.php (20.03 ms)
+[2019-02-20 16:55:10] info : Completed OK in (34.04 ms)
+[2019-02-20 16:55:14] info : Started GET / for 195.175.110.190
+[2019-02-20 16:55:14] info : Processing by HomeController#index
+[2019-02-20 16:55:14] info : 	Rendered app/views/home/index.php (28.32 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views//home/_home_topbar.php (16.22 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views//home/_home_header.php (16.73 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views//home/_home_navbar.php (60.61 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views/home/_home_footer.php (63.62 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views/layouts/_back_to_top.php (1.21 ms)
+[2019-02-20 16:55:14] info : 	Rendered app/views/layouts/home.php (223.81 ms)
+[2019-02-20 16:55:14] info : Completed OK in (229.61 ms)
+[2019-02-20 16:55:16] info : Started GET /admin for 52.12.196.134
+[2019-02-20 16:55:16] info : Processing by AdminController#index
+[2019-02-20 16:55:16] info : Started GET /admin/login for 52.12.196.134
+[2019-02-20 16:55:16] info : Processing by AdminController#login
+[2019-02-20 16:55:16] info : 	Rendered app/views/admin/login.php (7.39 ms)
+[2019-02-20 16:55:16] info : 	Rendered app/views/layouts/default.php (9.50 ms)
+[2019-02-20 16:55:16] info : Completed OK in (16.57 ms)
+[2019-02-20 16:55:42] info : Started GET / for 54.186.178.251
+[2019-02-20 16:55:42] info : Processing by HomeController#index
+[2019-02-20 16:55:42] info : 	Rendered app/views/home/index.php (28.89 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views//home/_home_topbar.php (16.93 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views//home/_home_header.php (16.42 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views//home/_home_navbar.php (60.53 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views/home/_home_footer.php (65.47 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+[2019-02-20 16:55:42] info : 	Rendered app/views/layouts/home.php (227.14 ms)
+[2019-02-20 16:55:42] info : Completed OK in (233.05 ms)
+[2019-02-20 16:58:22] error : No route matches [GET] /robots.txt
+[2019-02-20 16:58:22] info : 	Rendered public/404.html (1.06 ms)
+[2019-02-20 18:27:53] error : No route matches [GET] /robots.txt
+[2019-02-20 18:27:53] info : 	Rendered public/404.html (1.00 ms)
+[2019-02-20 18:27:53] info : Started GET /home/products/show/_dynamical_segment_ for 66.249.69.72
+[2019-02-20 18:27:53] info : Processing by ProductpageController#show
+[2019-02-20 18:27:55] info : 	Rendered app/views/home/productpage/_table.php (1405.03 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views/home/productpage/show.php (1511.10 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views//home/_home_topbar.php (17.35 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views//home/_home_header.php (19.28 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views//home/_home_navbar.php (61.84 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views/home/_home_footer.php (62.27 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+[2019-02-20 18:27:55] info : 	Rendered app/views/layouts/home.php (1711.02 ms)
+[2019-02-20 18:27:55] info : Completed OK in (1725.08 ms)
+[2019-02-20 18:37:01] error : No route matches [GET] /robots.txt
+[2019-02-20 18:37:01] info : 	Rendered public/404.html (1.14 ms)
+[2019-02-20 18:43:11] info : Started GET / for 167.99.211.55
+[2019-02-20 18:43:11] info : Processing by HomeController#index
+[2019-02-20 18:43:11] info : 	Rendered app/views/home/index.php (30.97 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views//home/_home_topbar.php (18.75 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views//home/_home_header.php (18.54 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views//home/_home_navbar.php (69.61 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views/home/_home_footer.php (68.99 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 18:43:11] info : 	Rendered app/views/layouts/home.php (249.73 ms)
+[2019-02-20 18:43:11] info : Completed OK in (257.11 ms)
+[2019-02-20 18:43:49] info : Started GET /home/about_us for 167.99.211.55
+[2019-02-20 18:43:49] info : Processing by HomeController#about_us
+[2019-02-20 18:43:49] info : 	Rendered app/views/home/about_us.php (33.01 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_topbar.php (16.21 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_header.php (16.74 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_navbar.php (62.49 ms)
+[2019-02-20 18:43:49] info : Started GET /home/contact for 167.99.211.55
+[2019-02-20 18:43:49] info : Processing by HomeController#contact
+[2019-02-20 18:43:49] info : 	Rendered app/views/home/_home_footer.php (71.62 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views/layouts/_back_to_top.php (1.42 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views/layouts/home.php (242.68 ms)
+[2019-02-20 18:43:49] info : Completed OK in (249.70 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views/home/contact.php (57.83 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_topbar.php (16.24 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_header.php (16.66 ms)
+[2019-02-20 18:43:49] info : 	Rendered app/views//home/_home_navbar.php (63.50 ms)
+[2019-02-20 18:43:50] info : 	Rendered app/views/home/_home_footer.php (64.58 ms)
+[2019-02-20 18:43:50] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 18:43:50] info : 	Rendered app/views/layouts/home.php (257.02 ms)
+[2019-02-20 18:43:50] info : Completed OK in (263.29 ms)
+[2019-02-20 19:08:24] error : No route matches [GET] /robots.txt
+[2019-02-20 19:08:24] info : 	Rendered public/404.html (0.97 ms)
+[2019-02-20 19:17:26] info : Started GET /home/producttypes/show/_dynamical_segment_ for 66.249.69.74
+[2019-02-20 19:17:26] info : Processing by ProducttypepageController#show
+[2019-02-20 19:17:26] info : 	Rendered app/views/home/_menu_product.php (11.32 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views/home/productpage/_table.php (824.21 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views/home/producttypepage/show.php (857.71 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views//home/_home_topbar.php (16.58 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views//home/_home_header.php (16.80 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views//home/_home_navbar.php (61.06 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views/home/_home_footer.php (67.59 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views/layouts/_back_to_top.php (1.31 ms)
+[2019-02-20 19:17:27] info : 	Rendered app/views/layouts/home.php (1061.45 ms)
+[2019-02-20 19:17:27] info : Completed OK in (1084.34 ms)
+[2019-02-20 19:18:23] info : Started GET /home/index for 66.249.69.72
+[2019-02-20 19:18:23] info : Processing by HomeController#index
+[2019-02-20 19:18:23] info : 	Rendered app/views/home/index.php (27.85 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views//home/_home_topbar.php (15.97 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views//home/_home_header.php (15.70 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views//home/_home_navbar.php (58.05 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views/home/_home_footer.php (63.04 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views/layouts/_back_to_top.php (1.23 ms)
+[2019-02-20 19:18:23] info : 	Rendered app/views/layouts/home.php (218.25 ms)
+[2019-02-20 19:18:23] info : Completed OK in (224.37 ms)
+[2019-02-20 19:24:05] error : No route matches [GET] /robots.txt
+[2019-02-20 19:24:05] info : 	Rendered public/404.html (1.02 ms)
+[2019-02-20 19:25:25] info : Started GET /home/products/show/_dynamical_segment_ for 66.249.69.72
+[2019-02-20 19:25:25] info : Processing by ProductpageController#show
+[2019-02-20 19:25:26] info : 	Rendered app/views/home/productpage/_table.php (523.65 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views/home/productpage/show.php (634.04 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views//home/_home_topbar.php (16.31 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views//home/_home_header.php (16.35 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views//home/_home_navbar.php (63.29 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views/home/_home_footer.php (64.34 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views/layouts/_back_to_top.php (1.24 ms)
+[2019-02-20 19:25:26] info : 	Rendered app/views/layouts/home.php (832.54 ms)
+[2019-02-20 19:25:26] info : Completed OK in (846.89 ms)
+[2019-02-20 21:04:57] info : Started GET /home/producttypes/show/_dynamical_segment_ for 40.77.167.185
+[2019-02-20 21:04:57] info : Processing by ProducttypepageController#show
+[2019-02-20 21:04:57] info : 	Rendered app/views/home/_menu_product.php (11.53 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views/home/productpage/_table.php (386.30 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views/home/producttypepage/show.php (421.25 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views//home/_home_topbar.php (16.60 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views//home/_home_header.php (16.47 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views//home/_home_navbar.php (61.05 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views/home/_home_footer.php (64.51 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views/layouts/_back_to_top.php (1.26 ms)
+[2019-02-20 21:04:58] info : 	Rendered app/views/layouts/home.php (619.35 ms)
+[2019-02-20 21:04:58] info : Completed OK in (641.25 ms)
+[2019-02-20 21:07:06] error : No route matches [GET] /robots.txt
+[2019-02-20 21:07:06] info : 	Rendered public/404.html (1.16 ms)
+[2019-02-20 21:25:58] error : No route matches [GET] /robots.txt
+[2019-02-20 21:25:58] info : 	Rendered public/404.html (1.05 ms)
+[2019-02-20 21:25:59] info : Started GET / for 66.249.69.72
+[2019-02-20 21:25:59] info : Processing by HomeController#index
+[2019-02-20 21:25:59] info : 	Rendered app/views/home/index.php (28.60 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views//home/_home_topbar.php (16.47 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views//home/_home_header.php (16.61 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views//home/_home_navbar.php (60.51 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views/home/_home_footer.php (66.51 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+[2019-02-20 21:25:59] info : 	Rendered app/views/layouts/home.php (227.38 ms)
+[2019-02-20 21:25:59] info : Completed OK in (234.75 ms)
+[2019-02-20 21:33:21] info : Started GET /home/products/show/_dynamical_segment_ for 37.155.5.165
+[2019-02-20 21:33:21] info : Processing by ProductpageController#show
+[2019-02-20 21:33:23] info : 	Rendered app/views/home/productpage/_table.php (1499.10 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views/home/productpage/show.php (1607.92 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views//home/_home_topbar.php (16.92 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views//home/_home_header.php (16.61 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views//home/_home_navbar.php (62.31 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views/home/_home_footer.php (66.60 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views/layouts/_back_to_top.php (1.44 ms)
+[2019-02-20 21:33:23] info : 	Rendered app/views/layouts/home.php (1810.02 ms)
+[2019-02-20 21:33:23] info : Completed OK in (1824.15 ms)
+[2019-02-20 22:15:23] info : Started GET / for 149.202.86.127
+[2019-02-20 22:15:23] info : Processing by HomeController#index
+[2019-02-20 22:15:24] info : 	Rendered app/views/home/index.php (28.49 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views//home/_home_topbar.php (16.62 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views//home/_home_header.php (16.57 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views//home/_home_navbar.php (60.94 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views/home/_home_footer.php (65.24 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views/layouts/_back_to_top.php (1.25 ms)
+[2019-02-20 22:15:24] info : 	Rendered app/views/layouts/home.php (227.69 ms)
+[2019-02-20 22:15:24] info : Completed OK in (234.89 ms)
+[2019-02-20 22:43:31] error : No route matches [GET] /robots.txt
+[2019-02-20 22:43:31] info : 	Rendered public/404.html (0.98 ms)
+[2019-02-20 22:43:31] error : No route matches [GET] /robots.txt
+[2019-02-20 22:43:31] info : 	Rendered public/404.html (0.91 ms)
+[2019-02-20 22:43:35] info : Started GET / for 141.8.183.203
+[2019-02-20 22:43:35] info : Processing by HomeController#index
+[2019-02-20 22:43:35] info : 	Rendered app/views/home/index.php (28.78 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views//home/_home_topbar.php (16.75 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views//home/_home_header.php (17.40 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views//home/_home_navbar.php (67.55 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views/home/_home_footer.php (76.95 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views/layouts/_back_to_top.php (1.29 ms)
+[2019-02-20 22:43:35] info : 	Rendered app/views/layouts/home.php (246.36 ms)
+[2019-02-20 22:43:35] info : Completed OK in (253.63 ms)
+[2019-02-20 22:54:44] info : Started GET / for 52.53.201.78
+[2019-02-20 22:54:44] info : Processing by HomeController#index
+[2019-02-20 22:54:44] info : 	Rendered app/views/home/index.php (29.87 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views//home/_home_topbar.php (18.23 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views//home/_home_header.php (18.55 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views//home/_home_navbar.php (85.97 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views/home/_home_footer.php (79.88 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views/layouts/_back_to_top.php (1.28 ms)
+[2019-02-20 22:54:44] info : 	Rendered app/views/layouts/home.php (273.15 ms)
+[2019-02-20 22:54:44] info : Completed OK in (280.77 ms)
+[2019-02-20 22:56:40] info : Started GET / for 195.3.144.185
+[2019-02-20 22:56:40] info : Processing by HomeController#index
+[2019-02-20 22:56:41] info : 	Rendered app/views/home/index.php (28.81 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views//home/_home_topbar.php (16.55 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views//home/_home_header.php (16.42 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views//home/_home_navbar.php (61.62 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views/home/_home_footer.php (65.32 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views/layouts/_back_to_top.php (1.34 ms)
+[2019-02-20 22:56:41] info : 	Rendered app/views/layouts/home.php (227.68 ms)
+[2019-02-20 22:56:41] info : Completed OK in (233.72 ms)
+[2019-02-20 23:25:04] error : No route matches [GET] /robots.txt
+[2019-02-20 23:25:04] info : 	Rendered public/404.html (0.99 ms)

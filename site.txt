@@ -1,0 +1,93 @@
+
+#################################
+# Yönetici paneli ve özellikleri;
+#################################
+
+- Ürün isteniyorsa ürünlere özgü kategori, ürün tipi, ürün türleri eklenmesi / düzenlenmesi
+
+- Slayt bilgilerini ekleme / düzenleme
+
+- Galeri sayfasýnýn ekleme / düzenleme
+
+- Referans bilgileri ekleme / düzenleme
+
+- Partner bilgileri ekleme / düzenleme
+
+- Eðitim bilgileri ekleme / düzenleme
+
+- Doküman bilgileri ekleme / düzenleme
+
+- Haber'i tarihe göre haber ekleme / düzenleme
+
+- Sayfa resim baþlýk içerik olarak ekleme / düzenleme
+
+- Yönetici hesabýnýn þifresi unutulunca þifremi unuttum aktivasyon onay kodu özelliði
+
+- Site kullanýcý veya personellerin ekleme / düzenleme / yetkilendirilme
+
+
+###############################
+# Site görünümü ve özellikleri;
+###############################
+
+- Ürün isteniyorsa ürünlere özgü kategori, ürüntipi, ürün türleri görüntülenmesi
+
+- Slayt bilgilerinin görüntülenmesi
+
+- Galeri sayfasýnýn görüntülenmesi
+
+- Referans bilgilerinin görüntülenmesi
+
+- Partner bilgilerinin görüntülenmesi
+
+- Eðitim bilgilerinin görüntülenmesi
+
+- Doküman bilgilerinin görüntülenmesi
+
+- Haberi tarihe göre arama / görüntüleme özelliði
+
+- Sayfa bilgilerinin hiyerarþik olarak görüntülenmesi
+
+- Çalýþanlarýn bulunduðu personelleri iletiþim ve bilgilerinin görüntülenmesi
+
+- Google map üzerinden iletiþim bilgilerinin paylaþýlmasý
+
+- Her cihaz çözünürlüðüne uygun responsive(uyumlu) tasarým
+
+- Google SEO optimizasyonu (Google arama sýralarýnda anahtar kelimelerle çýkmasý için)
+
+
+##########################
+# Kullanýlan teknolojiler;
+##########################
+
+- MySQL
+
+- PHP 
+
+- Bootstrap v3
+
+- Pace js
+
+- DataTables js
+
+- Fontawesome
+
+- Animated css
+
+- Barak Framework
+
+
+#####################
+# Sunucu özellikleri;
+#####################
+
+- 1000 MBDisk Alaný
+
+- 10 GB Trafik
+
+- 3 Domain
+
+- 6 Subdomain
+
+- 15 E-Posta
