@@ -20,7 +20,7 @@ class ApplicationConfig {
     // Session options
     if (!strlen(session_id())) {
 
-    	// COOKIE: httponly ile JS'in ilgili cookie'yi okuması engelleme ayarı, JS'yi engelle
+      // COOKIE: httponly ile JS'in ilgili cookie'yi okuması engelleme ayarı, JS'yi engelle
       ini_set('session.cookie_httponly', 1);
 
       // for $_SESSION hash kick!
@@ -37,10 +37,10 @@ class ApplicationConfig {
     $app_configuration = parse_ini_file(self::APPFILE);
     foreach ($app_configuration as $key => $value) {
       switch ($key) {
-        case "timezone":               date_default_timezone_set($value);          break;
-        case "debug":                  ApplicationDebug::init($value);             break;
-        case "locale":                 ApplicationI18n::init($value);              break;
-        case "cacheexpiration":        ApplicationCache::expiration($value);       break;
+        case "timezone":        date_default_timezone_set($value);    break;
+        case "debug":           ApplicationDebug::init($value);       break;
+        case "locale":          ApplicationI18n::init($value);        break;
+        case "cacheexpiration": ApplicationCache::expiration($value); break;
         default:
         throw new Exception("Uygulama yapılandırma dosyasında bilinmeyen parametre → " . $key);
       }

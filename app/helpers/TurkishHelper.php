@@ -12,30 +12,32 @@ class TurkishHelper {
     return $_months[$index];
   }
 
-  public static function strtoupper($string) {
-    $_upper = [
-      'i' => 'İ',
-      'ı' => 'I',
-      'ğ' => 'Ğ',
-      'ü' => 'Ü',
-      'ş' => 'Ş',
-      'ö' => 'Ö',
-      'ç' => 'Ç'
-    ];
-    return strtoupper(strtr($string, $_upper));
+  // Kaynak : https://stackoverflow.com/questions/38126940/php-str-split-and-utf8-polish-characters
+  public static function str_split($word) {
+    $len = mb_strlen($word, 'UTF-8');
+    $chars = [];
+    for ($i = 0; $i < $len; $i++)
+      $chars[] = mb_substr($word, $i, 1, 'UTF-8');
+    return $chars;
   }
-  
+
+  // Kaynak : https://gist.github.com/hiercelik/8d9f1c66f06e790549435b3a2c2051f3
+  public static function strtoupper($string) {
+
+    $uppers = ['A','B','C','Ç','D','E','F','G','Ğ','H','I','İ','J','K','L','M','N','O','Ö','P','R','S','Ş','T','U','Ü','V','Y','Z','Q','W','X'];
+    $lowers = ['a','b','c','ç','d','e','f','g','ğ','h','ı','i','j','k','l','m','n','o','ö','p','r','s','ş','t','u','ü','v','y','z','q','w','x'];
+
+    $string = str_replace($lowers, $lowers, $string);
+    return function_exists('mb_strtoupper') ? mb_strtoupper($string) : $string;
+  }
+
   public static function strtolower($string) {
-    $_lower = [
-      'İ' => 'i',
-      'I' => 'ı',
-      'Ğ' => 'ğ',
-      'Ü' => 'ü',
-      'Ş' => 'ş',
-      'Ö' => 'ö',
-      'Ç' => 'ç'
-    ];
-    return strtolower(strtr($string, $_lower));
+
+    $uppers = ['A','B','C','Ç','D','E','F','G','Ğ','H','I','İ','J','K','L','M','N','O','Ö','P','R','S','Ş','T','U','Ü','V','Y','Z','Q','W','X'];
+    $lowers = ['a','b','c','ç','d','e','f','g','ğ','h','ı','i','j','k','l','m','n','o','ö','p','r','s','ş','t','u','ü','v','y','z','q','w','x'];
+
+    $string = str_replace($uppers, $lowers, $string);
+    return function_exists('mb_strtolower') ? mb_strtolower($string) : $string;
   }
 
   public static function strcmp($string1, $string2) {
@@ -46,11 +48,11 @@ class TurkishHelper {
   public static function is_tc($tc) {
     preg_replace(
       '/([1-9]{1})([0-9]{1})([0-9]{1})([0-9]{1})([0-9]{1})([0-9]{1})([0-9]{1})([0-9]{1})([0-9]{1}).*$/e',
-      "eval('
-      \$on=((((\\1+\\3+\\5+\\7+\\9)*7)-(\\2+\\4+\\6+\\8))%10);
-      \$onbir=(\\1+\\2+\\3+\\4+\\5+\\6+\\7+\\8+\\9+\$on)%10;
-      ')",
-      $tc
+      "Something is wrong('
+        \$on=((((\1+\3+\5+\7+\9)*7)-(\2+\4+\6+\8))%10);
+        \$onbir=(\1+\2+\3+\4+\5+\6+\7+\8+\9+\$on)%10;
+        ')",
+    $tc
     );
     // ilk üç hane için bir ek kontrol daha
     if (!(isset($on) && isset($onbir))) return false;
@@ -58,5 +60,4 @@ class TurkishHelper {
     return substr($tc, -2) == ($on < 0 ? 10 + $on : $on) . $onbir;
   }
 }
-
 ?>

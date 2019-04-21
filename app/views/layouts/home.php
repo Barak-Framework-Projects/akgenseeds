@@ -203,7 +203,7 @@
 </div>
 
 <?php if (($social_whatsapp = Setting::unique(["name" => "social_whatsapp"])->value) != "") { ?>
-  <a href="https://wa.me/<?= $social_whatsapp; ?>" target="_blank"><div id="whatsapp-logo"></div></a>
+  <a href="https://wa.me/<?= $social_whatsapp; ?>" target="_blank"><div id="whatsapp-logo" style="bottom: 0; left: 0;"></div></a>
 <?php } ?>
 
 <audio controls="controls" autoplay="autoplay" hidden="true">

@@ -27,7 +27,7 @@ class SettingsController extends AdminController {
     }
 
     $_SESSION["info"] = "Ayarlar güncellendi";
-    $this->redirect_to("admin/settings/show/");
+    $this->redirect_to("admin/settings/show");
   }
 
 }

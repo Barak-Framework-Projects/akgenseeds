@@ -90,6 +90,7 @@
 
     <div class="col-md-2 col-sm-2 col-xs-4" id="side-menu">
       <div class="well well-sm">
+        <?= render(["partial" => "admin/menu_cargo"]); ?>
         <?= render(["partial" => "admin/menu_site"]); ?>
         <?= render(["partial" => "admin/menu_distributor"]); ?>
         <?= render(["partial" => "admin/menu_product"]); ?>

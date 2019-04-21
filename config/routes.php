@@ -25,11 +25,37 @@ ApplicationRoutes::draw(function() {
   get("home/index");
   get("home/about_us");
   get("home/contact");
-//  post("home/mail_send");
 
-  //get("home/categories/producttypes/products");
+  // post("home/mail_send");
+
+  // get("home/categories/producttypes/products");
 
   // get("solutions/network", "solutionpage#network", "/home");
+
+  scope("api", function() {
+    scope("v1", function() {
+      get("datas", "datas#index");
+      get("datas/:barcode", "datas#show");
+      get("datas/repeater", "datas#repeater");
+      get("datas/test", "datas#test");
+     // get("datas/ss/:barcode", "datas#smartsearch");
+
+
+
+      post("devices/show", "devices#show");
+      post("devices/payment", "devices#payment");
+      post("devices/save", "devices#save");
+
+      post("datas/pages", "datas#pages");
+      post("datas/tops", "datas#tops");
+      post("datas/search_name", "datas#search_name");
+      post("datas/search_barcode", "datas#search_barcode");
+
+      /* mng test apis */
+      get("mng/conn", "mng#connection");
+    });
+
+  });
 
   scope("home", function() {
     get("pages/:id", "page#show");
@@ -118,6 +144,10 @@ ApplicationRoutes::draw(function() {
     get("settings/edit");
     post("settings/update");
 
+    /* Kargo permission */
+    get("mng/test");
+    get("orders/create", "orders#create");
+    post("orders/save", "orders#save");
   });
 
 });
